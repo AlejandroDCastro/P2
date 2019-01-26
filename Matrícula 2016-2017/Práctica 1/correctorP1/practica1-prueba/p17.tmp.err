@@ -1,0 +1,3 @@
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 0
+	at Romskip.embarque(Romskip.java:55)
+	at p17.main(p17.java:201)

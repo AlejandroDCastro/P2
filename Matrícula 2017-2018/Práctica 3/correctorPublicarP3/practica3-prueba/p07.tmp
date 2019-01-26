@@ -1,0 +1,17 @@
+Diego tiene distintos rasgos? -> false
+Diego tiene distintos rasgos? -> false
+RasgoNoValidoException: corbata
+Diego tiene distintos rasgos? -> false
+Diego tiene distintos rasgos? -> false
+Diego tiene distintos rasgos? -> false
+RasgoPreexistenteException: (ojos,violetas)
+RasgoPreexistenteException: (bigote,true)
+Diego tiene distintos rasgos? -> false
+RasgoNoValidoException: camiseta
+RasgoPreexistenteException: (barba,false)
+RasgoPreexistenteException: (pelo,marron)
+Diego tiene distintos rasgos? -> true
+RasgoPreexistenteException: (sombrero,false)
+RasgoNoValidoException: carton
+RasgoNoValidoException: juguete
+Diego[barba(false),ojos(violetas),bigote(true),pelo(marron),gafas(false),pendientes(false),sombrero(false)]

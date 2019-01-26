@@ -1,0 +1,208 @@
+OSCURO version League of Legends
+---------- Muestra Datos del Oscuro ---------
+El Cho'gah mata de un bocao y no se le acerca ni Trynda.
+(Solo se ha creado el oscuro)
+---------- Muestra Datos del Oscuro ---------
+Cho'gah le faltan items y necesita la ayuda de su equipo.
+Campeon1: Disconnected
+Campeon2: Disconnected
+Campeon3: Disconnected
+Campeon4: Disconnected
+Campeon5: Disconnected
+(Le hemos rellenado la caterva)
+---------- Muestra Datos del Oscuro ---------
+Cho'gah le faltan items y necesita la ayuda de su equipo.
+Campeon1: Arhi
+Fuerza: 8.0
+Campeon2: Azir
+Fuerza: 8.8
+Campeon3: Zed
+Fuerza: 9.6
+Campeon4: Leblanc
+Fuerza: 10.4
+Campeon5: Oriana
+Fuerza: 11.2
+-------------------- METODO CULTO -----------------------
+CULTO con BESTIA SIN AMO
+ANTES DE CULTO
+---------- Muestra Datos de la Bestia ---------
+Nombre: Sejuani
+Amo: Desconocido
+Fuerza: 10.0
+Demoledor: NO
+DESPUES DE CULTO
+FUERZA DEVUELTA -> 2.0
+---------- Muestra Datos del Oscuro ---------
+Cho'gah le faltan items y necesita la ayuda de su equipo.
+Campeon1: Arhi
+Fuerza: 8.0
+Campeon2: Azir
+Fuerza: 8.8
+Campeon3: Zed
+Fuerza: 9.6
+Campeon4: Leblanc
+Fuerza: 10.4
+Campeon5: Oriana
+Fuerza: 11.2
+Campeon6: Sejuani
+Fuerza: 8.0
+---------- Muestra Datos de la Bestia ---------
+Nombre: Sejuani
+Amo: Desconocido
+Fuerza: 8.0
+Demoledor: SI
+CULTO con BESTIA CON AMO
+ANTES DE CULTO
+---------- Muestra Datos de la Bestia ---------
+Nombre: Garen
+Amo: Caitlyn
+Fuerza: 10.0
+Demoledor: NO
+DESPUES DE CULTO
+FUERZA DEVUELTA -> 2.0
+---------- Muestra Datos del Oscuro ---------
+Cho'gah le faltan items y necesita la ayuda de su equipo.
+Campeon1: Arhi
+Fuerza: 8.0
+Campeon2: Azir
+Fuerza: 8.8
+Campeon3: Zed
+Fuerza: 9.6
+Campeon4: Leblanc
+Fuerza: 10.4
+Campeon5: Oriana
+Fuerza: 11.2
+Campeon6: Sejuani
+Fuerza: 8.0
+Campeon7: Garen
+Fuerza: 8.0
+---------- Muestra Datos de la Bestia ---------
+Nombre: Garen
+Amo: Caitlyn
+Fuerza: 8.0
+Demoledor: SI
+CULTO con BESTIA QUE CONTIENE DEMOLEDOR
+ANTES DE CULTO
+---------- Muestra Datos de la Bestia ---------
+Nombre: Irelia
+Amo: Desconocido
+Fuerza: 10.0
+Demoledor: SI
+DESPUES DE CULTO
+FUERZA DEVUELTA -> 2.0
+---------- Muestra Datos del Oscuro ---------
+Cho'gah le faltan items y necesita la ayuda de su equipo.
+Campeon1: Arhi
+Fuerza: 8.0
+Campeon2: Azir
+Fuerza: 8.8
+Campeon3: Zed
+Fuerza: 9.6
+Campeon4: Leblanc
+Fuerza: 10.4
+Campeon5: Oriana
+Fuerza: 11.2
+Campeon6: Sejuani
+Fuerza: 8.0
+Campeon7: Garen
+Fuerza: 8.0
+Campeon8: Irelia
+Fuerza: 8.0
+---------- Muestra Datos de la Bestia ---------
+Nombre: Irelia
+Amo: Desconocido
+Fuerza: 8.0
+Demoledor: SI
+CULTO con DEMOLEDOR
+ANTES DE CULTO
+---------- Muestra Datos de la Bestia ---------
+Nombre: Zoe
+Amo: Desconocido
+Fuerza: 10.0
+Demoledor: SI
+DESPUES DE CULTO
+FUERZA DEVUELTA -> 2.0
+---------- Muestra Datos del Oscuro ---------
+Cho'gah le faltan items y necesita la ayuda de su equipo.
+Campeon1: Arhi
+Fuerza: 8.0
+Campeon2: Azir
+Fuerza: 8.8
+Campeon3: Zed
+Fuerza: 9.6
+Campeon4: Leblanc
+Fuerza: 10.4
+Campeon5: Oriana
+Fuerza: 11.2
+Campeon6: Sejuani
+Fuerza: 8.0
+Campeon7: Garen
+Fuerza: 8.0
+Campeon8: Irelia
+Fuerza: 8.0
+Campeon9: Zoe
+Fuerza: 8.0
+---------- Muestra Datos de la Bestia ---------
+Nombre: Zoe
+Amo: Desconocido
+Fuerza: 8.0
+Demoledor: SI
+-------------------- METODO CALAMIDADES -----------------------
+FEUDO
+Terreno 0:
+ V A P
+ M E F
+ V A P
+ M E F
+Terreno 1:
+ V A P M
+ E F V A
+ P M E F
+ V A P M
+ E F V A
+MIEMBRO
+Nombre: Neakail McAllary; Vigor: 100.000; Clan: McAllary
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Nombre: Nabil McAllary; Vigor: 100.000; Clan: McAllary
+Cesta:
+Total de productos: 0
+Nombre: Youness McAllary; Vigor: 100.000; Clan: McAllary
+Cesta:
+Total de productos: 0
+Arrasa con todo, Chogah(calamidades):
+Terrenos del Feudo arrasados: 2
+FEUDO
+Terreno 0:
+ V A P
+ M x F
+ V A P
+ M x F
+Terreno 1:
+ V A P M
+ x F V A
+ P M x F
+ V A P M
+ x F V A
+---------- Muestra Datos del Oscuro ---------
+Cho'gah le faltan items y necesita la ayuda de su equipo.
+Campeon1: Arhi
+Fuerza: 6.0
+Campeon2: Azir
+Fuerza: 6.6000000000000005
+Campeon3: Zed
+Fuerza: 9.6
+Campeon4: Leblanc
+Fuerza: 10.4
+Campeon5: Oriana
+Fuerza: 11.2
+Campeon6: Sejuani
+Fuerza: 8.0
+Campeon7: Garen
+Fuerza: 8.0
+Campeon8: Irelia
+Fuerza: 8.0
+Campeon9: Zoe
+Fuerza: 8.0

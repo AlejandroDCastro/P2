@@ -1,0 +1,12 @@
+Krilin esta completo? -> false
+Krilin esta completo? -> false
+RasgoNoValidoException: pecas
+Krilin esta completo? -> false
+Krilin esta completo? -> false
+Krilin esta completo? -> false
+Krilin esta completo? -> false
+RasgoNoValidoException: gorra
+RasgoNoValidoException: trenzas
+Krilin esta completo? -> true
+RasgoNoValidoException: cejas
+Krilin[pendientes(false),gafas(false),barba(false),bigote(false),pelo(calvo),ojos(azules),sombrero(true)]

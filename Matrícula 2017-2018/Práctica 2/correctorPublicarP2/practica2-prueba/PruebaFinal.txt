@@ -1,0 +1,337 @@
+CONQUISTA TERRENOS LOS DOS CLANES
+Clan Castro conquista: SI
+Clan Castro conquista: SI
+Clan Postolache conquista: NO
+Clan Postolache conquista: NO
+Clan Postolache conquista: SI
+Clan Postolache conquista: SI
+--------------------------------------
+MUESTRA ESTADO INICIAL DE CLANES
+Feudo del clan Castro
+Terreno 0:
+ V A P M
+ E F V A
+ P M E F
+ V A P M
+ E F V A
+Terreno 1:
+ P M E F V
+ A P M E F
+ V A P M E
+ F V A P M
+ E F V A P
+ M E F V A
+Nombre: Alejandro Castro; Vigor: 100.000; Clan: Castro
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Nombre: David Castro; Vigor: 100.000; Clan: Castro
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Nombre: JuanMa Castro; Vigor: 100.000; Clan: Castro
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Nombre: Isabel Castro; Vigor: 100.000; Clan: Castro
+Cesta:
+Total de productos: 0
+Mistico: No
+Feudo del clan Postolache
+Terreno 0:
+ V A P M
+ E F V A
+ P M E F
+ V A P M
+ E F V A
+Terreno 1:
+ P M E F V
+ A P M E F
+ V A P M E
+ F V A P M
+ E F V A P
+ M E F V A
+Nombre: Florin Postolache; Vigor: 100.000; Clan: Postolache
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Nombre: Ares Postolache; Vigor: 100.000; Clan: Postolache
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Nombre: Javi Postolache; Vigor: 100.000; Clan: Postolache
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Nombre: Cristina Postolache; Vigor: 100.000; Clan: Postolache
+Cesta:
+Total de productos: 0
+Nombre: Papa Postolache; Vigor: 100.000; Clan: Postolache
+Cesta:
+Total de productos: 0
+Mistico: No
+--------------------------------------
+VASALLAJE CON EL CLAN POSTOLACHE
+Vasalla el miembro: Cristina Postolache
+Total de productos: 17
+Tipo: 1; Nombre: brocoli; peso: 2.030
+Tipo: 2; Nombre: vaca; peso: 2.180
+Tipo: 3; Nombre: agata; peso: 2.330
+Tipo: 4; Nombre: caoba; peso: 2.480
+Tipo: 6; Nombre: rodocrosita; peso: 2.780
+Tipo: 1; Nombre: berza; peso: 2.930
+Tipo: 2; Nombre: cerdo; peso: 3.080
+Tipo: 3; Nombre: amatista; peso: 3.230
+Tipo: 4; Nombre: teca; peso: 3.380
+Tipo: 6; Nombre: aventurina; peso: 3.680
+Tipo: 1; Nombre: espinaca; peso: 3.830
+Tipo: 2; Nombre: pollo; peso: 3.980
+Tipo: 3; Nombre: cuarzo; peso: 4.130
+Tipo: 4; Nombre: mindi; peso: 4.280
+Tipo: 6; Nombre: actinolita; peso: 4.580
+Tipo: 1; Nombre: lechuga romana; peso: 4.730
+Tipo: 2; Nombre: conejo; peso: 4.880
+Vasalla el miembro: Papa Postolache
+Total de productos: 25
+Tipo: 3; Nombre: alejandrita; peso: 5.030
+Tipo: 4; Nombre: rattan; peso: 5.180
+Tipo: 6; Nombre: amazonita; peso: 5.480
+Tipo: 1; Nombre: comote; peso: 5.630
+Tipo: 2; Nombre: borrego; peso: 5.780
+Tipo: 3; Nombre: malaquita; peso: 5.930
+Tipo: 4; Nombre: abaca; peso: 6.080
+Tipo: 6; Nombre: ambligonita; peso: 6.380
+Tipo: 1; Nombre: zanahoria; peso: 6.530
+Tipo: 2; Nombre: cabra; peso: 6.680
+Tipo: 3; Nombre: rodonita; peso: 6.830
+Tipo: 4; Nombre: cerezo; peso: 6.980
+Tipo: 6; Nombre: blenda; peso: 7.280
+Tipo: 1; Nombre: calabaza de invierno; peso: 7.430
+Tipo: 2; Nombre: pavo; peso: 7.580
+Tipo: 3; Nombre: pirita; peso: 7.730
+Tipo: 4; Nombre: fresno; peso: 7.880
+Tipo: 6; Nombre: cianita; peso: 8.180
+Tipo: 1; Nombre: lentejas; peso: 8.330
+Tipo: 2; Nombre: avestruz; peso: 8.480
+Tipo: 3; Nombre: kunzita; peso: 8.630
+Tipo: 4; Nombre: haya; peso: 8.780
+Tipo: 6; Nombre: cinabrio; peso: 9.080
+Tipo: 1; Nombre: frijoles secos; peso: 9.230
+Tipo: 2; Nombre: venado; peso: 9.380
+Feudo del clan Castro
+Terreno 0:
+ V A P M
+ E F V A
+ P M E F
+ V A P M
+ E F V A
+Terreno 1:
+ P M E F V
+ A P M E F
+ V A P M E
+ F V A P M
+ E F V A P
+ M E F V A
+Nombre: Alejandro Castro; Vigor: 100.000; Clan: Castro
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Nombre: David Castro; Vigor: 100.000; Clan: Castro
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Nombre: JuanMa Castro; Vigor: 100.000; Clan: Castro
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Nombre: Isabel Castro; Vigor: 100.000; Clan: Castro
+Cesta:
+Total de productos: 0
+Mistico: No
+Feudo del clan Postolache
+Terreno 0:
+ x x x x
+ E x x x
+ x x E x
+ x x x x
+ E x x x
+Terreno 1:
+ x x E x x
+ x x x E x
+ x x x x E
+ x x x x x
+ E x x x x
+ x E x x x
+Nombre: Florin Postolache; Vigor: 100.000; Clan: Postolache
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Nombre: Ares Postolache; Vigor: 100.000; Clan: Postolache
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Nombre: Javi Postolache; Vigor: 100.000; Clan: Postolache
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Nombre: Cristina Postolache; Vigor: 90.000; Clan: Postolache
+Cesta:
+Total de productos: 0
+Nombre: Papa Postolache; Vigor: 90.000; Clan: Postolache
+Cesta:
+Total de productos: 0
+Mistico: No
+--------------------------------------
+ISABEL CASTRO ALIMENTA A SU BESTIOLA
+Isabel ha domesticado a Leblanc.
+Nombre: Leblanc; Amo: Isabel Castro; Fuerza: 5.000; Amuleto -> 
+Ha alimentado a su bestia con el terreno.
+Nombre: Isabel Castro; Vigor: 100.000; Clan: Castro
+Cesta:
+Total de productos: 20
+Tipo: 3; Nombre: alejandrita; peso: 5.030
+Tipo: 4; Nombre: rattan; peso: 5.180
+Tipo: 6; Nombre: amazonita; peso: 5.480
+Tipo: 2; Nombre: borrego; peso: 5.780
+Tipo: 3; Nombre: malaquita; peso: 5.930
+Tipo: 4; Nombre: abaca; peso: 6.080
+Tipo: 6; Nombre: ambligonita; peso: 6.380
+Tipo: 2; Nombre: cabra; peso: 6.680
+Tipo: 3; Nombre: rodonita; peso: 6.830
+Tipo: 4; Nombre: cerezo; peso: 6.980
+Tipo: 6; Nombre: blenda; peso: 7.280
+Tipo: 2; Nombre: pavo; peso: 7.580
+Tipo: 3; Nombre: pirita; peso: 7.730
+Tipo: 4; Nombre: fresno; peso: 7.880
+Tipo: 6; Nombre: cianita; peso: 8.180
+Tipo: 2; Nombre: avestruz; peso: 8.480
+Tipo: 3; Nombre: kunzita; peso: 8.630
+Tipo: 4; Nombre: haya; peso: 8.780
+Tipo: 6; Nombre: cinabrio; peso: 9.080
+Tipo: 2; Nombre: venado; peso: 9.380
+Terreno pastureado: 
+Terreno 0:
+ V A P M
+ E F V A
+ P M E F
+ V A P M
+ E F V A
+Terreno 1:
+ x x E x x
+ x x x E x
+ x x x x E
+ x x x x x
+ E x x x x
+ x E x x x
+Nombre: Leblanc; Amo: Isabel Castro; Fuerza: 8.715; Amuleto -> 
+--------------------------------------
+FLOREN TUTELA A TODO SU CLAN
+Floren tutela 1: NO
+--------
+Floren tutela 2: NO
+--------
+Floren tutela 3: SI
+Florin Postolache - Cristina Postolache
+Floren tutela 4: NO
+--------
+Feudo del clan Castro
+Terreno 0:
+ V A P M
+ E F V A
+ P M E F
+ V A P M
+ E F V A
+Terreno 1:
+ x x E x x
+ x x x E x
+ x x x x E
+ x x x x x
+ E x x x x
+ x E x x x
+Nombre: Alejandro Castro; Vigor: 100.000; Clan: Castro
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Nombre: David Castro; Vigor: 100.000; Clan: Castro
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Nombre: JuanMa Castro; Vigor: 100.000; Clan: Castro
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Nombre: Isabel Castro; Vigor: 100.000; Clan: Castro
+Cesta:
+Total de productos: 20
+Tipo: 3; Nombre: alejandrita; peso: 5.030
+Tipo: 4; Nombre: rattan; peso: 5.180
+Tipo: 6; Nombre: amazonita; peso: 5.480
+Tipo: 2; Nombre: borrego; peso: 5.780
+Tipo: 3; Nombre: malaquita; peso: 5.930
+Tipo: 4; Nombre: abaca; peso: 6.080
+Tipo: 6; Nombre: ambligonita; peso: 6.380
+Tipo: 2; Nombre: cabra; peso: 6.680
+Tipo: 3; Nombre: rodonita; peso: 6.830
+Tipo: 4; Nombre: cerezo; peso: 6.980
+Tipo: 6; Nombre: blenda; peso: 7.280
+Tipo: 2; Nombre: pavo; peso: 7.580
+Tipo: 3; Nombre: pirita; peso: 7.730
+Tipo: 4; Nombre: fresno; peso: 7.880
+Tipo: 6; Nombre: cianita; peso: 8.180
+Tipo: 2; Nombre: avestruz; peso: 8.480
+Tipo: 3; Nombre: kunzita; peso: 8.630
+Tipo: 4; Nombre: haya; peso: 8.780
+Tipo: 6; Nombre: cinabrio; peso: 9.080
+Tipo: 2; Nombre: venado; peso: 9.380
+Mistico: No
+Feudo del clan Postolache
+Terreno 0:
+ x x x x
+ E x x x
+ x x E x
+ x x x x
+ E x x x
+Terreno 1:
+ x x E x x
+ x x x E x
+ x x x x E
+ x x x x x
+ E x x x x
+ x E x x x
+Nombre: Florin Postolache; Vigor: 100.000; Clan: Postolache
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Nombre: Ares Postolache; Vigor: 100.000; Clan: Postolache
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Nombre: Javi Postolache; Vigor: 100.000; Clan: Postolache
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Nombre: Cristina Postolache; Vigor: 90.000; Clan: Postolache
+Cesta:
+Total de productos: 0
+Nombre: Papa Postolache; Vigor: 90.000; Clan: Postolache
+Cesta:
+Total de productos: 0
+Mistico: No

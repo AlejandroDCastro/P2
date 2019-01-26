@@ -1,0 +1,60 @@
+Productos creados -> 21
+colocado (true) el producto Tipo: 1; Nombre: brocoli; peso: 1.500; colocado: true
+colocado (true) el producto Tipo: 1; Nombre: berza; peso: 1.650; colocado: true
+colocado (true) el producto Tipo: 1; Nombre: espinaca; peso: 1.800; colocado: true
+colocado (true) el producto Tipo: 1; Nombre: lechuga romana; peso: 1.950; colocado: true
+colocado (true) el producto Tipo: 1; Nombre: comote; peso: 2.100; colocado: true
+colocado (true) el producto Tipo: 1; Nombre: zanahoria; peso: 2.250; colocado: true
+colocado (true) el producto Tipo: 2; Nombre: Vaca; peso: 2.400; colocado: true
+colocado (true) el producto Tipo: 2; Nombre: Cerdo; peso: 2.550; colocado: true
+colocado (true) el producto Tipo: 2; Nombre: Pollo; peso: 2.700; colocado: true
+colocado (true) el producto Tipo: 3; Nombre: agata; peso: 2.850; colocado: true
+colocado (true) el producto Tipo: 3; Nombre: amatista; peso: 3.000; colocado: true
+colocado (true) el producto Tipo: 3; Nombre: cuarzo; peso: 3.150; colocado: true
+colocado (true) el producto Tipo: 4; Nombre: caoba; peso: 3.300; colocado: true
+colocado (true) el producto Tipo: 4; Nombre: teca; peso: 3.450; colocado: true
+colocado (true) el producto Tipo: 4; Nombre: mindi; peso: 3.600; colocado: true
+colocado (true) el producto Tipo: 5; Nombre: casa; peso: 3.750; colocado: true
+colocado (true) el producto Tipo: 5; Nombre: casona; peso: 3.900; colocado: true
+colocado (true) el producto Tipo: 5; Nombre: pazo; peso: 4.050; colocado: true
+colocado (true) el producto Tipo: 6; Nombre: rodocrosita; peso: 4.200; colocado: true
+colocado (true) el producto Tipo: 6; Nombre: aventurina; peso: 4.350; colocado: true
+Contenido de la cesta de James Mackay
+Tipo: 1; Nombre: brocoli; peso: 1.500; colocado: true
+Tipo: 1; Nombre: berza; peso: 1.650; colocado: true
+Tipo: 1; Nombre: espinaca; peso: 1.800; colocado: true
+Tipo: 1; Nombre: lechuga romana; peso: 1.950; colocado: true
+Tipo: 2; Nombre: Pollo; peso: 2.700; colocado: true
+Tipo: 3; Nombre: agata; peso: 2.850; colocado: true
+Tipo: 3; Nombre: amatista; peso: 3.000; colocado: true
+Tipo: 3; Nombre: cuarzo; peso: 3.150; colocado: true
+Tipo: 6; Nombre: rodocrosita; peso: 4.200; colocado: true
+Tipo: 6; Nombre: aventurina; peso: 4.350; colocado: true
+Contenido de la cesta de Muriel Macleod
+Tipo: 1; Nombre: comote; peso: 2.100; colocado: true
+Tipo: 1; Nombre: zanahoria; peso: 2.250; colocado: true
+Tipo: 2; Nombre: Vaca; peso: 2.400; colocado: true
+Tipo: 2; Nombre: Cerdo; peso: 2.550; colocado: true
+Tipo: 4; Nombre: caoba; peso: 3.300; colocado: true
+Tipo: 4; Nombre: teca; peso: 3.450; colocado: true
+Tipo: 4; Nombre: mindi; peso: 3.600; colocado: true
+[agata, caoba]
+Contenido de la cesta de James Mackay
+Tipo: 1; Nombre: brocoli; peso: 1.500; colocado: true
+Tipo: 1; Nombre: berza; peso: 1.650; colocado: true
+Tipo: 1; Nombre: espinaca; peso: 1.800; colocado: true
+Tipo: 1; Nombre: lechuga romana; peso: 1.950; colocado: true
+Tipo: 2; Nombre: Pollo; peso: 2.700; colocado: true
+Tipo: 4; Nombre: caoba; peso: 3.300; colocado: true
+Tipo: 3; Nombre: amatista; peso: 3.000; colocado: true
+Tipo: 3; Nombre: cuarzo; peso: 3.150; colocado: true
+Tipo: 6; Nombre: rodocrosita; peso: 4.200; colocado: true
+Tipo: 6; Nombre: aventurina; peso: 4.350; colocado: true
+Contenido de la cesta de Muriel Macleod
+Tipo: 1; Nombre: comote; peso: 2.100; colocado: true
+Tipo: 1; Nombre: zanahoria; peso: 2.250; colocado: true
+Tipo: 2; Nombre: Vaca; peso: 2.400; colocado: true
+Tipo: 2; Nombre: Cerdo; peso: 2.550; colocado: true
+Tipo: 4; Nombre: teca; peso: 3.450; colocado: true
+Tipo: 4; Nombre: mindi; peso: 3.600; colocado: true
+Tipo: 3; Nombre: agata; peso: 2.850; colocado: true

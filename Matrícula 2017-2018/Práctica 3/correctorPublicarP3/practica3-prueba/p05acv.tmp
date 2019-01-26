@@ -1,0 +1,29 @@
+RasgoNoValidoException: piel
+RasgoPreexistenteException: (ojos,azules)
+RasgoNoValidoException: pene
+RasgoNoValidoException: simpatico
+RasgoNoValidoException: PELO
+RasgoPreexistenteException: (sombrero,true)
+RasgoPreexistenteException: (pelo,negro)
+RasgoNoValidoException: saiyan
+RasgoNoValidoException: piel
+RasgoNoValidoException: Ojos
+RasgoNoValidoException: pene
+RasgoNoValidoException: simpatico
+fila 0:
+Piccolo[ojos(blancos),sombrero(false),pelo(calvo),gafas(false),pendientes(true),bigote(false),barba(false)]
+Vegeta[ojos(azules),sombrero(false),pelo(negro),gafas(false),pendientes(false),bigote(true),barba(true)]
+Bulma[ojos(azul),sombrero(false),pelo(azul),gafas(false),pendientes(true),bigote(false),barba(false)]
+fila 1:
+Trunks[ojos(azules),sombrero(false),pelo(grisaceo),gafas(false),pendientes(false),bigote(false),barba(false)]
+Goku[ojos(negros),sombrero(true),pelo(negro),gafas(false),pendientes(false),bigote(true),barba(false)]
+Gohan[ojos(marron),sombrero(true),pelo(negro),gafas(true),pendientes(false),bigote(false),barba(false)]
+
+fila 0:
+Piccolo[ojos(blancos),sombrero(false),pelo(calvo),gafas(false),pendientes(true),bigote(false),barba(false)]
+Vegeta[ojos(marron),sombrero(false),pelo(negro),gafas(false),pendientes(false),bigote(true),barba(true)]
+Bulma[ojos(azul),sombrero(false),pelo(azul),gafas(false),pendientes(true),bigote(false),barba(false)]
+fila 1:
+Trunks[ojos(azules),sombrero(false),pelo(grisaceo),gafas(false),pendientes(false),bigote(false),barba(false)]
+Goku[ojos(negros),sombrero(true),pelo(negro),gafas(false),pendientes(false),bigote(true),barba(false)]
+Gohan[ojos(marron),sombrero(true),pelo(negro),gafas(true),pendientes(false),bigote(false),barba(false)]

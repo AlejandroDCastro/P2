@@ -1,0 +1,10 @@
+Las cadenas menores a patata son 3
+Cadena: PATATA null PoRtADA null paTATA null wakamole PEZ QUESO 
+Las cadenas menores a patata son 0
+Cadena: null null null null null 
+Las cadenas menores a patata son 0
+Cadena: 
+Las cadenas menores a patata son 2
+Cadena: null null null null paTATA null wakamole PEZ QUESO 
+Error: Los parametros pasados al metodo son incorrectos.
+Error: Los parametros pasados al metodo son incorrectos.

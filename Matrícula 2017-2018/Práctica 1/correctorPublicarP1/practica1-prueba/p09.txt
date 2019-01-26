@@ -1,0 +1,94 @@
+Se crea el solarcico
+
+Colocamos un Tomatico en 1, 1
+Colocamos un Tomatico en 1, 2
+Colocamos un Tomatico en 1, 3
+Colocamos un Tomatico en 1, 4
+Colocamos un Tomatico en 1, 5
+Colocamos un Tomatico en 1, 6
+Colocamos un Conejico en 2, 1
+Colocamos un Conejico en 2, 2
+Colocamos un Conejico en 2, 3
+Colocamos un Conejico en 2, 4
+Colocamos un Conejico en 2, 5
+Colocamos un Conejico en 2, 6
+Colocamos un Pedrolo en 3, 1
+Colocamos un Pedrolo en 3, 2
+Colocamos un Pedrolo en 3, 3
+Colocamos un Pedrolo en 3, 4
+Colocamos un Pedrolo en 3, 5
+Colocamos un Pedrolo en 3, 6
+Colocamos un Palico en 4, 1
+Colocamos un Palico en 4, 2
+Colocamos un Palico en 4, 3
+Colocamos un Palico en 4, 4
+Colocamos un Palico en 4, 5
+Colocamos un Palico en 4, 6
+Colocamos un Zulo en 5, 1
+Colocamos un Zulo en 5, 2
+Colocamos un Zulo en 5, 3
+Colocamos un Zulo en 5, 4
+Colocamos un Zulo en 5, 5
+Colocamos un Zulo en 5, 6
+Colocamos un Cosico en 6, 1
+Colocamos un Cosico en 6, 2
+Colocamos un Cosico en 6, 3
+Colocamos un Cosico en 6, 4
+Colocamos un Cosico en 6, 5
+Colocamos un Cosico en 6, 6
+
+Wertecico del Tio Pencho:
+........
+.VVVVVV.
+.AAAAAA.
+.PPPPPP.
+.MMMMMM.
+.EEEEEE.
+.FFFFFF.
+........
+
+Tio Pencho sale a faenar
+
+Tio Pencho recoge un pedrolo
+Tio Pencho recoge un pedrolo
+Tio Pencho recoge un pedrolo
+Tio Pencho recoge un pedrolo
+Tio Pencho recoge un pedrolo
+Tio Pencho recoge un pedrolo
+
+Tio Pencho: "Axo, pos voy hacer unos zulicos por aqui"
+Pencho crea un zulo
+Pencho crea un zulo
+Pencho crea un zulo
+Pencho crea un zulo
+
+Wertecico del Tio Pencho:
+........
+.VVVVVV.
+.AAAAAA.
+........
+.MMMMMM.
+.EEEEEE.
+.FFFFFF.
+........
+
+Tio Pencho: "Ballesta, que me das si te paso en negro un poquico de esto?"
+Ballesta: "Pos te doy: 6.571428571428571 euricos"
+Tio Pencho: "Cawen dieh, que agarraico ereh pijo"
+
+Tio Pencho vuelve a salir a faenar porque el timador de Ballesta no nos da ni pa comer
+
+Tio Pencho recoge un Tomatico
+Tio Pencho recoge un Conejico
+Tio Pencho no encuentra naica
+Tio Pencho recoge un Palico
+Tio Pencho no encuentra naica
+Tio Pencho recoge un Cosico
+Tio Pencho recoge un Tomatico
+Tio Pencho recoge un Conejico
+Tio Pencho no encuentra naica
+Tio Pencho no encuentra naica
+
+Tio Pencho: "Ballesta, que me das ahora?"
+Ballesta: "Pos te doy: 5.03095238095238 euricos"
+Tio Pencho: "Huevoh, sois tos unos ladrones, ijueputa"

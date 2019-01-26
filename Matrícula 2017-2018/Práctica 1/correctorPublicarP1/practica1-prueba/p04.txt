@@ -1,0 +1,16 @@
+Productos creados -> 18
+colocado (true) el producto Tipo: 1; Nombre: brocoli; peso: 1.500; colocado: true
+colocado (true) el producto Tipo: 1; Nombre: berza; peso: 1.700; colocado: true
+colocado (true) el producto Tipo: 1; Nombre: espinaca; peso: 1.900; colocado: true
+colocado (true) el producto Tipo: 2; Nombre: Vaca; peso: 2.100; colocado: true
+SOLAR:
+1 1 -1 
+1 2 -1 
+-1 -1 -1 
+parcelas regeneradas por el mistico: 5
+SOLAR REGENERADO:
+1 1 2 
+1 2 2 
+2 2 2 
+TRIBUTOS
+Tipo: 2; Nombre: Cerdo; peso: 2.300; colocado: true

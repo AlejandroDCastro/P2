@@ -1,0 +1,340 @@
+Conquistado terreno 0 -> true
+Conquistado terreno 1 -> true
+---------------------------------------------
+LOS CLANES 1: EL COMIENZO
+Feudo del clan Castro
+Terreno 0:
+ V A P
+ M E F
+ V A P
+ M E F
+Nombre: Alejandro Castro; Vigor: 100.000; Clan: Castro
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Nombre: David Castro; Vigor: 100.000; Clan: Castro
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Nombre: JuanMa Castro; Vigor: 100.000; Clan: Castro
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Nombre: Isabel Castro; Vigor: 100.000; Clan: Castro
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Mistico: No
+Feudo del clan Postolache
+Terreno 0:
+ V A P M
+ E F V A
+ P M E F
+ V A P M
+ E F V A
+Nombre: Florin Postolache; Vigor: 100.000; Clan: Postolache
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Nombre: Ares Postolache; Vigor: 100.000; Clan: Postolache
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Nombre: Javi Postolache; Vigor: 100.000; Clan: Postolache
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Nombre: Cristina Postolache; Vigor: 100.000; Clan: Postolache
+Cesta:
+Total de productos: 0
+Nombre: Papa Postolache; Vigor: 100.000; Clan: Postolache
+Cesta:
+Total de productos: 0
+Mistico: No
+---------------------------------------------
+LOS CLANES 2: LABORANDO
+El Clan Castroha recogido en total: 4 productos
+El Clan Postolacheha recogido en total: 6 productos
+Feudo del clan Castro
+Terreno 0:
+ V A x
+ x E F
+ V A x
+ x E F
+Nombre: Alejandro Castro; Vigor: 100.000; Clan: Castro
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 4
+Tipo: 3; Nombre: agata; peso: 3.600
+Tipo: 4; Nombre: caoba; peso: 3.800
+Tipo: 3; Nombre: amatista; peso: 4.800
+Tipo: 4; Nombre: teca; peso: 5.000
+Nombre: David Castro; Vigor: 100.000; Clan: Castro
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Nombre: JuanMa Castro; Vigor: 100.000; Clan: Castro
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Nombre: Isabel Castro; Vigor: 100.000; Clan: Castro
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Mistico: No
+Feudo del clan Postolache
+Terreno 0:
+ V A x x
+ E F V A
+ x x E F
+ V A x x
+ E F V A
+Nombre: Florin Postolache; Vigor: 100.000; Clan: Postolache
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 6
+Tipo: 3; Nombre: cuarzo; peso: 6.000
+Tipo: 4; Nombre: mindi; peso: 6.200
+Tipo: 3; Nombre: alejandrita; peso: 7.200
+Tipo: 4; Nombre: rattan; peso: 7.400
+Tipo: 3; Nombre: malaquita; peso: 8.400
+Tipo: 4; Nombre: abaca; peso: 8.600
+Nombre: Ares Postolache; Vigor: 100.000; Clan: Postolache
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Nombre: Javi Postolache; Vigor: 100.000; Clan: Postolache
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Nombre: Cristina Postolache; Vigor: 100.000; Clan: Postolache
+Cesta:
+Total de productos: 0
+Nombre: Papa Postolache; Vigor: 100.000; Clan: Postolache
+Cesta:
+Total de productos: 0
+Mistico: No
+---------------------------------------------
+LOS CLANES 3: ADOPTANDO DEIDADES
+Los Castros adoptan: SI
+Los Postolaches adoptan: SI
+Los Castros adoptan: NO
+Feudo del clan Castro
+Terreno 0:
+ V A x
+ x E F
+ V A x
+ x E F
+Nombre: Alejandro Castro; Vigor: 100.000; Clan: Castro
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 4
+Tipo: 3; Nombre: agata; peso: 3.600
+Tipo: 4; Nombre: caoba; peso: 3.800
+Tipo: 3; Nombre: amatista; peso: 4.800
+Tipo: 4; Nombre: teca; peso: 5.000
+Nombre: David Castro; Vigor: 100.000; Clan: Castro
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Nombre: JuanMa Castro; Vigor: 100.000; Clan: Castro
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Nombre: Isabel Castro; Vigor: 100.000; Clan: Castro
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Mistico: Si, Blanco
+Feudo del clan Postolache
+Terreno 0:
+ V A x x
+ E F V A
+ x x E F
+ V A x x
+ E F V A
+Nombre: Florin Postolache; Vigor: 100.000; Clan: Postolache
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 6
+Tipo: 3; Nombre: cuarzo; peso: 6.000
+Tipo: 4; Nombre: mindi; peso: 6.200
+Tipo: 3; Nombre: alejandrita; peso: 7.200
+Tipo: 4; Nombre: rattan; peso: 7.400
+Tipo: 3; Nombre: malaquita; peso: 8.400
+Tipo: 4; Nombre: abaca; peso: 8.600
+Nombre: Ares Postolache; Vigor: 100.000; Clan: Postolache
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Nombre: Javi Postolache; Vigor: 100.000; Clan: Postolache
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Nombre: Cristina Postolache; Vigor: 100.000; Clan: Postolache
+Cesta:
+Total de productos: 0
+Nombre: Papa Postolache; Vigor: 100.000; Clan: Postolache
+Cesta:
+Total de productos: 0
+Mistico: Si, Oscuro
+---------------------------------------------
+LOS CLANES 3: CASTROS vs POSTOLACHES
+El clan Postolache los ha destrozado completamente.
+Feudo del clan Castro
+Terreno 0:
+ V A x
+ x E F
+ V A x
+ x E F
+Nombre: Alejandro Castro; Vigor: 100.000; Clan: Castro
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Nombre: David Castro; Vigor: 100.000; Clan: Castro
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Nombre: JuanMa Castro; Vigor: 100.000; Clan: Castro
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Nombre: Isabel Castro; Vigor: 100.000; Clan: Castro
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Mistico: Si, Oscuro
+Feudo del clan Postolache
+Terreno 0:
+ V A x x
+ E F V A
+ x x E F
+ V A x x
+ E F V A
+Nombre: Florin Postolache; Vigor: 100.000; Clan: Postolache
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 10
+Tipo: 3; Nombre: cuarzo; peso: 6.000
+Tipo: 4; Nombre: mindi; peso: 6.200
+Tipo: 3; Nombre: alejandrita; peso: 7.200
+Tipo: 4; Nombre: rattan; peso: 7.400
+Tipo: 3; Nombre: malaquita; peso: 8.400
+Tipo: 4; Nombre: abaca; peso: 8.600
+Tipo: 3; Nombre: agata; peso: 3.600
+Tipo: 4; Nombre: caoba; peso: 3.800
+Tipo: 3; Nombre: amatista; peso: 4.800
+Tipo: 4; Nombre: teca; peso: 5.000
+Nombre: Ares Postolache; Vigor: 100.000; Clan: Postolache
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Nombre: Javi Postolache; Vigor: 100.000; Clan: Postolache
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Nombre: Cristina Postolache; Vigor: 100.000; Clan: Postolache
+Cesta:
+Total de productos: 0
+Nombre: Papa Postolache; Vigor: 100.000; Clan: Postolache
+Cesta:
+Total de productos: 0
+Mistico: Si, Oscuro
+---------------------------------------------
+LOS CLANES 4: LO SIENTO FLOREN
+Me quedo con tu hermana y tu padre.
+Me quedo con Papa Postolache y Cristina Postolache.
+Feudo del clan Castro
+Terreno 0:
+ V A x
+ x E F
+ V A x
+ x E F
+Nombre: Alejandro Castro; Vigor: 100.000; Clan: Castro
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Nombre: David Castro; Vigor: 100.000; Clan: Castro
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Nombre: JuanMa Castro; Vigor: 100.000; Clan: Castro
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Nombre: Isabel Castro; Vigor: 100.000; Clan: Castro
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Nombre: Papa Castro; Vigor: 100.000; Clan: Castro
+Cesta:
+Total de productos: 0
+Nombre: Cristina Castro; Vigor: 100.000; Clan: Castro
+Cesta:
+Total de productos: 0
+Mistico: Si, Oscuro
+Feudo del clan Postolache
+Terreno 0:
+ V A x x
+ E F V A
+ x x E F
+ V A x x
+ E F V A
+Nombre: Florin Postolache; Vigor: 100.000; Clan: Postolache
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 10
+Tipo: 3; Nombre: cuarzo; peso: 6.000
+Tipo: 4; Nombre: mindi; peso: 6.200
+Tipo: 3; Nombre: alejandrita; peso: 7.200
+Tipo: 4; Nombre: rattan; peso: 7.400
+Tipo: 3; Nombre: malaquita; peso: 8.400
+Tipo: 4; Nombre: abaca; peso: 8.600
+Tipo: 3; Nombre: agata; peso: 3.600
+Tipo: 4; Nombre: caoba; peso: 3.800
+Tipo: 3; Nombre: amatista; peso: 4.800
+Tipo: 4; Nombre: teca; peso: 5.000
+Nombre: Ares Postolache; Vigor: 100.000; Clan: Postolache
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Nombre: Javi Postolache; Vigor: 100.000; Clan: Postolache
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Mistico: Si, Oscuro

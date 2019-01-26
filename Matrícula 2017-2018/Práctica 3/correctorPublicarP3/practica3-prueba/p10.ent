@@ -1,0 +1,93 @@
+Alejandro
+Alicia
+2 3
+personajes
+personaje
+0 0
+Piccolo
+ojos blancos
+sombrero false
+pelo calvo
+gafas false
+pendientes true
+bigote false
+sombrero marron
+barba false
+personaje
+0 1
+Vegeta
+ojos azules
+ojos marron
+sombrero false
+pelo negro
+gafas false
+pendientes false
+gafas sol
+bigote true
+barba true
+personaje
+1 0
+Bulma
+ojos azul
+sombrero false
+pelo azul
+gafas false
+pendientes true
+bigote false
+barba false
+personaje
+1 1
+Trunks
+ojos azules
+sombrero false
+pelo grisaceo
+gafas false
+pendientes false
+bigote false
+barba false
+personajes
+personaje
+0 0
+Bardock
+ojos marronClaro
+sombrero true
+pelo negro
+gafas false
+ojos amarillos
+pendientes true
+bigote true
+barba true
+personaje
+0 1
+Freezer
+ojos purpura
+sombrero false
+pelo calvo
+gafas false
+pendientes false
+bigote false
+barba false
+personaje
+0 2
+Piccolo
+ojos blancos
+sombrero false
+pelo calvo
+ojos verde
+gafas false
+pendientes true
+bigote false
+barba false
+personaje
+1 0
+Vegeta
+ojos marron
+sombrero false
+pelo negro
+gafas false
+pendientes false
+bigote true
+barba true
+partida
+1 1
+0 2

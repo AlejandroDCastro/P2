@@ -1,0 +1,102 @@
+Dors con rango subalterno ha embarcado en Legacy? true
+Arkady con rango subalterno ha embarcado en Legacy? true
+Hari con rango subalterno ha embarcado en Legacy? true
+Golan con rango superior ha embarcado en Legacy? true
+Medile con rango subalterno ha embarcado en Legacy? true
+Clove con rango subalterno ha embarcado en Legacy? true
+Parzo con rango subalterno ha embarcado en Legacy? true
+Salvor con rango superior ha embarcado en Legacy? true
+Legacy0.5: mercancia embarcada
+Legacy1.0: mercancia embarcada
+Legacy1.5: mercancia embarcada
+Legacy2.0: mercancia embarcada
+Legacy2.5: mercancia embarcada
+Legacy3.0: mercancia embarcada
+Legacy3.5: mercancia embarcada
+Legacy4.0: mercancia embarcada
+Legacy4.5: mercancia embarcada
+Legacy5.0: mercancia embarcada
+Legacy5.5: mercancia embarcada
+Legacy6.0: mercancia embarcada
+Legacy6.5: mercancia embarcada
+Legacy7.0: mercancia embarcada
+Legacy7.5: mercancia embarcada
+Legacy8.0: mercancia embarcada
+Legacy8.5: mercancia embarcada
+Legacy9.0: mercancia embarcada
+Legacy9.5: mercancia embarcada
+Legacy10.0: mercancia embarcada
+Legacy10.5: mercancia embarcada
+Legacy11.0: mercancia embarcada
+Legacy11.5: mercancia embarcada
+Legacy12.0: mercancia embarcada
+Bodega de Legacy:
+pos. 0: 
+pos. 1: Legacy12.0 -> true -> parasito en la nave Legacy
+pos. 2: Legacy11.5 -> true -> parasito en la nave Legacy
+pos. 3: Legacy11.0 -> true -> parasito en la nave Legacy
+pos. 4: Legacy10.5 -> true -> parasito en la nave Legacy
+pos. 5: Legacy10.0 -> true -> parasito en la nave Legacy
+pos. 6: Legacy9.5 -> true -> parasito en la nave Legacy
+pos. 7: Legacy9.0 -> true -> parasito en la nave Legacy
+pos. 8: Legacy8.5 -> true -> parasito en la nave Legacy
+pos. 9: Legacy8.0 -> true -> parasito en la nave Legacy
+pos. 10: Legacy7.5 -> true -> parasito en la nave Legacy
+pos. 11: Legacy7.0 -> true -> parasito en la nave Legacy
+pos. 12: Legacy6.5 -> true -> parasito en la nave Legacy
+pos. 13: Legacy6.0 -> true -> parasito en la nave Legacy
+pos. 14: Legacy5.5 -> true -> parasito en la nave Legacy
+pos. 15: Legacy5.0 -> true -> parasito en la nave Legacy
+pos. 16: Legacy4.5 -> true -> parasito en la nave Legacy
+pos. 17: Legacy4.0 -> true -> parasito en la nave Legacy
+pos. 18: Legacy3.5 -> true -> parasito en la nave Legacy
+pos. 19: Legacy3.0 -> true -> parasito en la nave Legacy
+pos. 20: Legacy2.5 -> true -> parasito en la nave Legacy
+pos. 21: Legacy2.0 -> true -> parasito en la nave Legacy
+pos. 22: Legacy1.5 -> true -> parasito en la nave Legacy
+pos. 23: Legacy1.0 -> true -> parasito en la nave Legacy
+pos. 24: Legacy0.5 -> true -> parasito en la nave Legacy
+Dors ha eliminado 3 parasitos
+Arkady ha eliminado 3 parasitos
+Hari ha eliminado 3 parasitos
+Golan ha eliminado 3 parasitos
+Medile ha eliminado 3 parasitos
+Clove ha eliminado 3 parasitos
+Parzo ha eliminado 3 parasitos
+Salvor ha eliminado 3 parasitos
+Bodega de Legacy despues de trabajar:
+pos. 0: 
+pos. 1: Legacy12.0 -> true
+pos. 2: Legacy11.5 -> true
+pos. 3: Legacy11.0 -> true
+pos. 4: Legacy10.5 -> true
+pos. 5: Legacy10.0 -> true
+pos. 6: Legacy9.5 -> true
+pos. 7: Legacy9.0 -> true
+pos. 8: Legacy8.5 -> true
+pos. 9: Legacy8.0 -> true
+pos. 10: Legacy7.5 -> true
+pos. 11: Legacy7.0 -> true
+pos. 12: Legacy6.5 -> true
+pos. 13: Legacy6.0 -> true
+pos. 14: Legacy5.5 -> true
+pos. 15: Legacy5.0 -> true
+pos. 16: Legacy4.5 -> true
+pos. 17: Legacy4.0 -> true
+pos. 18: Legacy3.5 -> true
+pos. 19: Legacy3.0 -> true
+pos. 20: Legacy2.5 -> true
+pos. 21: Legacy2.0 -> true
+pos. 22: Legacy1.5 -> true
+pos. 23: Legacy1.0 -> true
+pos. 24: Legacy0.5 -> true
+Dors -> especia: 15.300; tempo: 4.500; cosecha: 75.000
+Arkady -> especia: 23.200; tempo: 6.000; cosecha: 66.000
+Hari -> especia: 10.200; tempo: 7.500; cosecha: 57.000
+Golan -> especia: 1.500; tempo: 9.000; cosecha: 48.000
+Medile -> especia: 6.500; tempo: 10.500; cosecha: 39.000
+Clove -> especia: 13.000; tempo: 12.000; cosecha: 30.000
+Parzo -> especia: 16.200; tempo: 13.500; cosecha: 21.000
+Salvor -> especia: 12.500; tempo: 15.000; cosecha: 12.000
+Golan con rango superior devuelve cuando cobra 47.620 y tiene despues de cobrar 1.880 especia (0.000, 0.000)
+Dors con rango subalterno devuelve cuando cobra 73.898 y tiene despues de cobrar 16.402 especia (0.000, 0.000)

@@ -1,0 +1,81 @@
+Productos creados -> 18
+Tipo: 1; Nombre: brocoli; peso: 1.500; colocado: false
+valorK => valorP: 9.571 => 14.357
+Tipo: 2; Nombre: Vaca; peso: 1.700; colocado: false
+valorK => valorP: -2.250 => -3.825
+Tipo: 3; Nombre: agata; peso: 1.900; colocado: false
+valorK => valorP: 5.000 => 9.500
+Tipo: 4; Nombre: caoba; peso: 2.100; colocado: false
+valorK => valorP: 3.400 => 7.140
+Tipo: 5; Nombre: casa; peso: 2.300; colocado: false
+valorK => valorP: 5.000 => 11.500
+Tipo: 6; Nombre: rodocrosita; peso: 2.500; colocado: false
+valorK => valorP: 11.455 => 28.636
+Tipo: 1; Nombre: berza; peso: 2.700; colocado: false
+valorK => valorP: 9.400 => 25.380
+Tipo: 2; Nombre: Cerdo; peso: 2.900; colocado: false
+valorK => valorP: 1.600 => 4.640
+Tipo: 3; Nombre: amatista; peso: 3.100; colocado: false
+valorK => valorP: 9.500 => 29.450
+Tipo: 4; Nombre: teca; peso: 3.300; colocado: false
+valorK => valorP: 6.250 => 20.625
+Tipo: 5; Nombre: casona; peso: 3.500; colocado: false
+valorK => valorP: 7.833 => 27.417
+Tipo: 6; Nombre: aventurina; peso: 3.700; colocado: false
+valorK => valorP: 11.500 => 42.550
+Tipo: 1; Nombre: espinaca; peso: 3.900; colocado: false
+valorK => valorP: 7.500 => 29.250
+Tipo: 2; Nombre: Pollo; peso: 4.100; colocado: false
+valorK => valorP: 6.600 => 27.060
+Tipo: 3; Nombre: cuarzo; peso: 4.300; colocado: false
+valorK => valorP: 13.000 => 55.900
+Tipo: 4; Nombre: mindi; peso: 4.500; colocado: false
+valorK => valorP: 8.800 => 39.600
+Tipo: 5; Nombre: pazo; peso: 4.700; colocado: false
+valorK => valorP: 13.500 => 63.450
+Tipo: 6; Nombre: actinolita; peso: 4.900; colocado: false
+valorK => valorP: 9.400 => 46.060
+producto tipo 6(rodocrosita) transforma producto de tipo 1 (brocoli) en tipo 7 => imposible
+--------------------------------
+producto tipo 4(teca) transforma producto de tipo 1 (brocoli) en tipo 8 => imposible
+--------------------------------
+producto tipo 6(rodocrosita) transforma producto de tipo 2 (Vaca) en tipo 6 => hecho
+--------------------------------
+producto tipo 4(teca) transforma producto de tipo 6 (Vaca) en tipo 7 => imposible
+--------------------------------
+producto tipo 6(rodocrosita) transforma producto de tipo 3 (agata) en tipo 5 => hecho
+--------------------------------
+producto tipo 4(teca) transforma producto de tipo 5 (agata) en tipo 6 => imposible
+--------------------------------
+producto tipo 6(rodocrosita) transforma producto de tipo 4 (caoba) en tipo 4 => imposible
+--------------------------------
+producto tipo 4(teca) transforma producto de tipo 4 (caoba) en tipo 5 => imposible
+--------------------------------
+producto tipo 6(rodocrosita) transforma producto de tipo 5 (casa) en tipo 3 => hecho
+--------------------------------
+producto tipo 4(teca) transforma producto de tipo 3 (casa) en tipo 4 => imposible
+--------------------------------
+producto tipo 6(rodocrosita) transforma producto de tipo 1 (berza) en tipo 2 => hecho
+--------------------------------
+producto tipo 4(teca) transforma producto de tipo 2 (berza) en tipo 3 => imposible
+--------------------------------
+producto tipo 6(rodocrosita) transforma producto de tipo 2 (Cerdo) en tipo 1 => hecho
+--------------------------------
+producto tipo 4(teca) transforma producto de tipo 1 (Cerdo) en tipo 2 => imposible
+--------------------------------
+producto tipo 6(rodocrosita) transforma producto de tipo 3 (amatista) en tipo 7 => imposible
+--------------------------------
+producto tipo 4(teca) transforma producto de tipo 3 (amatista) en tipo 8 => imposible
+--------------------------------
+producto tipo 6(rodocrosita) transforma producto de tipo 4 (teca) en tipo 6 => hecho
+--------------------------------
+producto tipo 6(teca) transforma producto de tipo 6 (teca) en tipo 7 => imposible
+--------------------------------
+producto tipo 6(rodocrosita) transforma producto de tipo 5 (casona) en tipo 5 => imposible
+producto tipo 6(rodocrosita) transforma producto de tipo 6 (aventurina) en tipo 4 => hecho
+producto tipo 6(rodocrosita) transforma producto de tipo 1 (espinaca) en tipo 3 => hecho
+producto tipo 6(rodocrosita) transforma producto de tipo 2 (Pollo) en tipo 2 => imposible
+producto tipo 6(rodocrosita) transforma producto de tipo 3 (cuarzo) en tipo 1 => hecho
+producto tipo 6(rodocrosita) transforma producto de tipo 4 (mindi) en tipo 7 => imposible
+producto tipo 6(rodocrosita) transforma producto de tipo 5 (pazo) en tipo 6 => hecho
+producto tipo 6(rodocrosita) transforma producto de tipo 6 (actinolita) en tipo 5 => hecho

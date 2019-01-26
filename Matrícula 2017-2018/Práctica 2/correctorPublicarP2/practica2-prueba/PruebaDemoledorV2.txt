@@ -1,0 +1,68 @@
+Terreno solar:
+ V A P M E
+ F V A P M
+ E F V A P
+ M E F V A
+ P M E F V
+ A P M E F
+Terreno campo:
+ V A P M E F V
+ A P M E F V A
+ P M E F V A P
+ M E F V A P M
+ E F x x x x x
+ x x x x x x x
+ x x x x x x x
+algo ha fallado cuando Eara Duncan ha intentado domesticar -> false
+------- Pasturea sin amuleto ------------
+Productos devueltos por pasturea de sin nombre en campo(13.695)
+Total de productos: 5
+Tipo: 3; Nombre: kunzita; peso: 10.300
+Tipo: 4; Nombre: haya; peso: 10.500
+Tipo: 6; Nombre: cinabrio; peso: 10.900
+Tipo: 1; Nombre: frijoles secos; peso: 11.100
+Tipo: 3; Nombre: esmeralda; peso: 11.500
+Productos devueltos por pasturea de sin nombre en solar (7.255)
+Total de productos: 3
+Tipo: 1; Nombre: brocoli; peso: 1.500
+Tipo: 3; Nombre: agata; peso: 1.900
+Tipo: 4; Nombre: caoba; peso: 2.100
+Terreno solar:
+ x x x x x
+ F V A P M
+ E F V A P
+ M E F V A
+ P M E F V
+ A P M E F
+Terreno campo:
+ V A P M E F V
+ A P M E F V A
+ x x x x x x x
+ M E F V A P M
+ E F x x x x x
+ x x x x x x x
+ x x x x x x x
+encontrado amuleto blenda
+encontrado amuleto rodocrosita
+------- Pasturea con amuleto ------------
+Productos devueltos por pasturea de sin nombre en campo (22.245)
+Total de productos: 0
+Productos devueltos por pasturea de sin nombre en solar (9.055)
+Total de productos: 0
+Terreno solar:
+ x x x x x
+ x x x x x
+ E F V A P
+ M E F V A
+ P M E F V
+ A P M E F
+Terreno campo:
+ V A P M E x V
+ x x x x x x x
+ x x x x x x x
+ M E F V A P M
+ E F x x x x x
+ x x x x x x x
+ x x x x x x x
+Sin nombre; Sin amo; Fuerza: 22.245; Amuleto -> Tipo: 6; Nombre: blenda; peso: 8.500
+Sin nombre; Sin amo; Fuerza: 9.055; Amuleto -> Tipo: 6; Nombre: rodocrosita; peso: 2.500

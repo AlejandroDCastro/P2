@@ -1,0 +1,10 @@
+TableroIncompletoException: 4
+fila 0:
+Fran[ojos(marron),sombrero(true),pelo(rubio),gafas(false),pendientes(false),bigote(false),barba(true)]
+fila 1:
+Katie[ojos(marron),sombrero(false),pendientes(true),pelo(marron),gafas(false),barba(false),bigote(false)]
+
+fila 0:
+Fran[ojos(marron),sombrero(true),pelo(rubio),gafas(false),pendientes(false),bigote(false),barba(true)]
+fila 1:
+Ana[ojos(azul),sombrero(false),pelo(blanco),gafas(true),pendientes(true),barba(false),bigote(false)]

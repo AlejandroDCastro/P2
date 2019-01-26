@@ -1,0 +1,14 @@
+2 1 4 3 
+4 2 8 6 
+6 3 12 9 
+
+2 4 6 
+1 2 3 
+4 8 12 
+3 6 9 
+
+ERROR: Parametros incorrectos.
+
+ERROR: Parametros incorrectos.
+
+ERROR: Parametros incorrectos.

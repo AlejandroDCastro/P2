@@ -1,0 +1,90 @@
+mercancia 0 Babylon0.2 almacenada -> true en [0,0,1]
+mercancia 1 Babylon0.7 almacenada -> true en [0,0,0]
+mercancia 2 Babylon1.2 almacenada -> true en [0,0,1]
+mercancia 3 Babylon1.7 almacenada -> true en [0,0,0]
+mercancia 4 Babylon2.2 almacenada -> true en [0,0,1]
+mercancia 5 Babylon2.7 almacenada -> true en [0,0,0]
+mercancia 6 Babylon3.2 almacenada -> true en [0,0,1]
+mercancia 7 Babylon3.7 almacenada -> true en [0,0,0]
+mercancia 8 Babylon4.2 almacenada -> true en [0,0,1]
+mercancia 9 Babylon4.7 almacenada -> true en [0,0,0]
+mercancia 10 Babylon5.2 almacenada -> true en [0,0,1]
+mercancia 11 Babylon5.7 almacenada -> true en [0,0,0]
+mercancia 12 Babylon6.2 almacenada -> true en [0,0,1]
+mercancia 13 Babylon6.7 almacenada -> true en [0,0,0]
+mercancia 14 Babylon7.2 almacenada -> true en [0,0,1]
+mercancia 15 Babylon7.7 almacenada -> true en [0,0,0]
+mercancia 16 Babylon8.2 almacenada -> true en [0,0,1]
+mercancia 17 Babylon8.7 almacenada -> true en [0,0,0]
+mercancia 18 Babylon9.2 almacenada -> true en [0,0,1]
+mercancia 19 Babylon9.7 almacenada -> true en [0,0,0]
+mercancia 20 Babylon10.2 almacenada -> true en [0,0,1]
+mercancia 21 Babylon10.7 almacenada -> true en [0,0,0]
+mercancia 22 Babylon11.2 almacenada -> true en [0,0,1]
+embarque de Babylon0.2 presente en [0,0,1]
+Cheyenne0.2: mercancia embarcada
+embarque de Babylon0.7 presente en [0,0,0]
+Cheyenne0.7: mercancia embarcada
+embarque de Babylon1.2 presente en [0,0,1]
+Cheyenne1.2: mercancia embarcada
+embarque de Babylon1.7 presente en [0,0,0]
+Cheyenne1.7: mercancia embarcada
+embarque de Babylon10.2 presente en [0,0,1]
+Cheyenne10.2: mercancia embarcada
+embarque de Babylon10.7 presente en [0,0,0]
+Cheyenne10.7: mercancia embarcada
+embarque de Babylon11.2 presente en [0,0,1]
+Cheyenne11.2: mercancia embarcada
+embarque de Babylon2.2 presente en [0,0,1]
+Cheyenne2.2: mercancia embarcada
+embarque de Babylon2.7 presente en [0,0,0]
+Cheyenne2.7: mercancia embarcada
+embarque de Babylon3.2 presente en [0,0,1]
+Cheyenne3.2: mercancia embarcada
+embarque de Babylon3.7 presente en [0,0,0]
+Cheyenne3.7: mercancia embarcada
+embarque de Babylon4.2 presente en [0,0,1]
+Cheyenne4.2: mercancia embarcada
+embarque de Babylon4.7 presente en [0,0,0]
+Cheyenne4.7: mercancia embarcada
+embarque de Babylon5.2 presente en [0,0,1]
+Cheyenne5.2: mercancia embarcada
+embarque de Babylon5.7 presente en [0,0,0]
+Cheyenne5.7: mercancia embarcada
+embarque de Babylon6.2 presente en [0,0,1]
+Cheyenne6.2: mercancia embarcada
+embarque de Babylon6.7 presente en [0,0,0]
+Cheyenne6.7: mercancia embarcada
+embarque de Babylon7.2 presente en [0,0,1]
+Cheyenne7.2: mercancia embarcada
+embarque de Babylon7.7 presente en [0,0,0]
+Cheyenne7.7: mercancia embarcada
+embarque de Babylon8.2 presente en [0,0,1]
+Cheyenne8.2: mercancia embarcada
+embarque de Babylon8.7 presente en [0,0,0]
+Cheyenne8.7: mercancia embarcada
+embarque de Babylon9.2 presente en [0,0,1]
+Babylon9.2: bodega de carga completa
+embarque de Babylon9.7 presente en [0,0,0]
+Babylon9.7: bodega de carga completa
+pos. 0: Cheyenne8.7 -> true
+pos. 1: Cheyenne8.2 -> true
+pos. 2: Cheyenne7.7 -> true -> parasito en la nave Cheyenne
+pos. 3: Cheyenne7.2 -> true
+pos. 4: Cheyenne6.7 -> true
+pos. 5: Cheyenne6.2 -> true
+pos. 6: Cheyenne5.7 -> true
+pos. 7: Cheyenne5.2 -> true -> parasito en la nave Cheyenne
+pos. 8: Cheyenne4.7 -> true
+pos. 9: Cheyenne4.2 -> true
+pos. 10: Cheyenne3.7 -> true
+pos. 11: Cheyenne3.2 -> true
+pos. 12: Cheyenne2.7 -> true -> parasito en la nave Cheyenne
+pos. 13: Cheyenne2.2 -> true
+pos. 14: Cheyenne11.2 -> true
+pos. 15: Cheyenne10.7 -> true
+pos. 16: Cheyenne10.2 -> true -> parasito en la nave Cheyenne
+pos. 17: Cheyenne1.7 -> true
+pos. 18: Cheyenne1.2 -> true
+pos. 19: Cheyenne0.7 -> true
+pos. 20: Cheyenne0.2 -> true -> parasito en la nave Cheyenne

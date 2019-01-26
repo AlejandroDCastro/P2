@@ -1,0 +1,51 @@
+Hugo
+Cinthia
+2 3
+personajes
+personaje
+0 0
+Fran
+ojos marron
+sombrero true
+pelo rubio
+gafas false
+pendientes false
+bigote false 
+barba true
+personaje
+1 0
+Katie
+ojos marron
+sombrero false
+pendientes true
+pelo marron
+gafas false
+barba false
+bigote false
+personajes
+personaje
+0 1
+Fran
+ojos marron
+sombrero true
+pelo rubio
+gafas false
+pendientes false
+bigote false 
+barba true
+personaje
+1 1
+Ana
+ojos azul
+sombrero false
+pelo blanco
+gafas true
+pendientes true
+barba false
+bigote false
+partida
+1 2
+0 1
+1 0 3
+1 1 4
+0 1 1

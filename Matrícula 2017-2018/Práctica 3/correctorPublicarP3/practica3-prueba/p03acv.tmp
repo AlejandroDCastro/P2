@@ -1,0 +1,25 @@
+pendientes(false)
+true
+sombrero(false)
+false
+gafas(false)
+true
+pelo(negro)
+true
+sombrero(false)
+true
+barba(false)
+true
+pelo(grisaceo)
+false
+ojos(marron)
+true
+PartidaGanadaException: (Raquel,Gohan)
+fila 0:
+Vegeta[ojos(marron),sombrero(false),pelo(negro),gafas(false),pendientes(false),bigote(true),barba(true)]
+fila 1:
+Trunks[ojos(azules),sombrero(false),pelo(grisaceo),gafas(false),pendientes(false),bigote(false),barba(false)]
+
+fila 0:
+fila 1:
+Gohan[ojos(marron),sombrero(true),pelo(negro),gafas(true),pendientes(false),bigote(false),barba(false)]

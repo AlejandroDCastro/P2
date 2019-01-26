@@ -1,0 +1,44 @@
+Terreno solar:
+ V A P
+ M E F
+ V A P
+Terreno campo:
+ M E F V
+ A P M E
+ F V A P
+Eara Duncan domestica con exito a PiriPiri -> true
+------- Pasturea sin amuleto ------------
+Productos devueltos por pasturea de PiriPiri en campo (12.510)
+Total de productos: 3
+Tipo: 6; Nombre: actinolita; peso: 4.900
+Tipo: 2; Nombre: conejo; peso: 5.300
+Tipo: 3; Nombre: alejandrita; peso: 5.500
+Productos devueltos por pasturea de sin nombre en solar (7.150)
+Total de productos: 0
+Terreno solar:
+ x x x
+ M E F
+ V A P
+Terreno campo:
+ M E F V
+ A P M E
+ x x x x
+encontrado amuleto aventurina
+encontrado amuleto rodocrosita
+------- Pasturea con amuleto ------------
+Productos devueltos por pasturea de PiriPiri en campo (12.920)
+Total de productos: 2
+Tipo: 1; Nombre: cuarzo; peso: 4.300
+Tipo: 1; Nombre: mindi; peso: 4.500
+Productos devueltos por pasturea de sin nombre en solar (7.360)
+Total de productos: 0
+Terreno solar:
+ x x x
+ x E x
+ V A P
+Terreno campo:
+ M E x V
+ x x x E
+ x x x x
+Nombre: PiriPiri; Amo: Eara Duncan; Fuerza: 12.920; Amuleto -> Tipo: 6; Nombre: aventurina; peso: 3.700
+Sin nombre; Sin amo; Fuerza: 7.360; Amuleto -> Tipo: 6; Nombre: rodocrosita; peso: 2.500

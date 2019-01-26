@@ -1,0 +1,126 @@
+Alejandro
+Raquel
+2 3
+personajes
+personaje
+0 0
+Piccolo
+sombrero false
+pelo calvo
+gafas false
+pendientes true
+bigote false
+barba false
+ojos blancos
+personaje
+0 1
+Vegeta
+ojos marron
+sombrero false
+pelo negro
+gafas false
+pendientes false
+bigote true
+barba true
+personaje
+0 2
+Bulma
+ojos azul
+sombrero false
+pelo azul
+gafas false
+bigote false
+barba false
+pendientes true
+personaje
+1 0
+Trunks
+ojos azules
+sombrero false
+pelo grisaceo
+gafas false
+pendientes false
+bigote false
+barba false
+personaje
+1 1
+Goku
+ojos negros
+sombrero true
+pelo negro
+gafas false
+pendientes false
+bigote true
+barba false
+personaje
+1 2
+Gohan
+pelo negro
+gafas true
+ojos marron
+sombrero true
+pendientes false
+bigote false
+barba false
+personajes
+personaje
+0 0
+Piccolo
+ojos blancos
+sombrero false
+pelo calvo
+gafas false
+pendientes true
+bigote false
+barba false
+personaje
+0 2
+Bulma
+ojos azul
+sombrero false
+pelo azul
+gafas false
+pendientes true
+bigote false
+barba false
+personaje
+1 0
+Trunks
+ojos azules
+bigote false
+sombrero false
+pendientes false
+pelo grisaceo
+gafas false
+barba false
+personaje
+0 1
+Gohan
+ojos marron
+sombrero true
+pelo negro
+gafas true
+pendientes false
+bigote false
+barba false
+personaje
+1 2
+Vegeta
+ojos marron
+sombrero false
+pelo negro
+gafas false
+pendientes false
+bigote true
+barba true
+partida
+1 2
+0 1
+1 0 4
+0 2 7
+0 1 3
+1 2 1
+1 0 7
+1 1 6
+1 0 1
+1 2 2

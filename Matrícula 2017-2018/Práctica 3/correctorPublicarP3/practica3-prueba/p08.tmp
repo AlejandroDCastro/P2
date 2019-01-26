@@ -1,0 +1,15 @@
+Consulta 1: sombrero(false)
+Consulta 2: barba(false)
+Consulta 3: bigote(true)
+Consulta 4: pendientes(false)
+Consulta 5: gafas(false)
+Consulta 6: ojos(verde)
+fila 0:
+Alicia[barba(false),ojos(azules),bigote(true),pelo(largo),gafas(false),pendientes(true),sombrero(false)]
+Rosana[barba(false),ojos(verde),bigote(false),pelo(moreno),gafas(false),pendientes(false),sombrero(true)]
+fila 1:
+Paco Macia[barba(false),ojos(azules),bigote(true),pelo(largo),gafas(false),pendientes(true),sombrero(false)]
+Leandro[barba(false),ojos(verde),bigote(false),pelo(moreno),gafas(false),pendientes(false),sombrero(true)]
+fila 2:
+Borja[barba(false),ojos(azules),bigote(true),pelo(largo),gafas(false),pendientes(true),sombrero(false)]
+Armando[barba(false),ojos(verde),bigote(false),pelo(moreno),gafas(false),pendientes(false),sombrero(true)]

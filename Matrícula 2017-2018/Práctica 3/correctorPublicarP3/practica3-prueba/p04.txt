@@ -1,0 +1,11 @@
+agrega pendientes a Chi-Chi
+agrega gafas a Chi-Chi
+agrega barba a Chi-Chi
+agrega bigote a Chi-Chi
+agrega pelo a Chi-Chi
+agrega ojos a Chi-Chi
+agrega sombrero a Chi-Chi
+situa Chi-Chi en tablero de Bulma -> true
+TableroIncompletoException: 1
+fila 0:
+Chi-Chi[pendientes(true),gafas(false),barba(false),bigote(false),pelo(negro),ojos(verde),sombrero(false)]

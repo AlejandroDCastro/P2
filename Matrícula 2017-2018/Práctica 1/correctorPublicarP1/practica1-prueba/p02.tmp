@@ -1,0 +1,26 @@
+Productos creados -> 18
+colocado (true) el producto Tipo: 1; Nombre: brocoli; peso: 1.500; colocado: true
+colocado (true) el producto Tipo: 2; Nombre: Vaca; peso: 1.700; colocado: true
+colocado (true) el producto Tipo: 3; Nombre: agata; peso: 1.900; colocado: true
+colocado (true) el producto Tipo: 4; Nombre: caoba; peso: 2.100; colocado: true
+colocado (true) el producto Tipo: 5; Nombre: casa; peso: 2.300; colocado: true
+colocado (true) el producto Tipo: 6; Nombre: rodocrosita; peso: 2.500; colocado: true
+colocado (false) el producto Tipo: 1; Nombre: berza; peso: 2.700; colocado: false
+colocado (false) el producto Tipo: 2; Nombre: Cerdo; peso: 2.900; colocado: false
+colocado (false) el producto Tipo: 3; Nombre: amatista; peso: 3.100; colocado: false
+colocado (false) el producto Tipo: 4; Nombre: teca; peso: 3.300; colocado: false
+colocado (false) el producto Tipo: 5; Nombre: casona; peso: 3.500; colocado: false
+colocado (false) el producto Tipo: 6; Nombre: aventurina; peso: 3.700; colocado: false
+colocado (false) el producto Tipo: 1; Nombre: espinaca; peso: 3.900; colocado: false
+colocado (false) el producto Tipo: 2; Nombre: Pollo; peso: 4.100; colocado: false
+colocado (false) el producto Tipo: 3; Nombre: cuarzo; peso: 4.300; colocado: false
+colocado (false) el producto Tipo: 4; Nombre: mindi; peso: 4.500; colocado: false
+colocado (false) el producto Tipo: 5; Nombre: pazo; peso: 4.700; colocado: false
+colocado (false) el producto Tipo: 6; Nombre: actinolita; peso: 4.900; colocado: false
+TASAS:
+producto tipo 1 -> 40
+producto tipo 2 -> 40
+producto tipo 3 -> 40
+producto tipo 4 -> 40
+producto tipo 5 -> 40
+producto tipo 6 -> 40

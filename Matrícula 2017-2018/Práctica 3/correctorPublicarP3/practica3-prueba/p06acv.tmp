@@ -1,0 +1,23 @@
+Giren tiene distintos rasgos? -> false
+Giren tiene distintos rasgos? -> false
+RasgoNoValidoException: corbata
+Giren tiene distintos rasgos? -> false
+Giren tiene distintos rasgos? -> false
+Giren tiene distintos rasgos? -> false
+RasgoPreexistenteException: (ojos,violetas)
+RasgoPreexistenteException: (bigote,true)
+Giren tiene distintos rasgos? -> false
+RasgoNoValidoException: camiseta
+RasgoPreexistenteException: (barba,false)
+RasgoPreexistenteException: (pelo,marron)
+Giren tiene distintos rasgos? -> true
+RasgoPreexistenteException: (sombrero,false)
+RasgoNoValidoException: carton
+RasgoNoValidoException: juguete
+Giren[barba(false),ojos(violetas),bigote(true),pelo(marron),gafas(false),pendientes(false),sombrero(false)]
+ojos(violetas) esta en Giren -> true
+ojos(violetas) esta en Giren -> false
+bigote(true) esta en Giren -> true
+pelo(calvo) esta en Giren -> false
+piel(verde) esta en Giren -> false
+pendientes(false) esta en Giren -> true

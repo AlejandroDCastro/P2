@@ -1,0 +1,120 @@
+Conquistado terreno 0 -> true
+Conquistado terreno 1 -> true
+Conquistado terreno 2 -> true
+------------ Estado inicial del feudo --------------
+Terreno 0:
+ V A P
+ M E F
+ V A P
+ M E F
+Terreno 1:
+ V A P M
+ E F V A
+ P M E F
+ V A P M
+ E F V A
+Terreno 2:
+ P M E F V
+ A P M E F
+ V A P M E
+ F V A P M
+ E F V A P
+ M E F V A
+Habitantes sin clan actualmente:
+Nombre: Mai McMeen; Vigor: 100.000; Clan: McMeen
+Cesta:
+Total de productos: 0
+------------ Recolectando en el feudo --------------------
+Habitantes del clan McAllary
+Productos recolectados por Neakail McAllary: 4
+Productos recolectados por Eara McAllary: 4
+Productos recolectados por Frang McAllary: 10
+Productos recolectados por Lair McAllary: 0
+Productos recolectados por Frang McAllary: 2
+Productos recolectados por Lair McAllary: 4
+Productos recolectados por Carlton McAllary: 4
+Productos recolectados por Ishbel McAllary: -1
+Estado de los habitantes del clan despues de la recolecta:
+Nombre: Neakail McAllary; Vigor: 95.000; Clan: McAllary
+Cesta:
+Total de productos: 4
+Tipo: 1; Nombre: brocoli; peso: 3.200
+Tipo: 2; Nombre: vaca; peso: 3.400
+Tipo: 3; Nombre: agata; peso: 3.600
+Tipo: 4; Nombre: caoba; peso: 3.800
+Nombre: Eara McAllary; Vigor: 95.000; Clan: McAllary
+Cesta:
+Total de productos: 4
+Tipo: 1; Nombre: espinaca; peso: 5.600
+Tipo: 2; Nombre: pollo; peso: 5.800
+Tipo: 3; Nombre: cuarzo; peso: 6.000
+Tipo: 4; Nombre: mindi; peso: 6.200
+Nombre: Frang McAllary; Vigor: 100.000; Clan: McAllary
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 12
+Tipo: 3; Nombre: rodonita; peso: 9.600
+Tipo: 4; Nombre: cerezo; peso: 9.800
+Tipo: 3; Nombre: pirita; peso: 10.800
+Tipo: 4; Nombre: fresno; peso: 11.000
+Tipo: 3; Nombre: kunzita; peso: 12.000
+Tipo: 4; Nombre: haya; peso: 12.200
+Tipo: 3; Nombre: esmeralda; peso: 13.200
+Tipo: 4; Nombre: nogal; peso: 13.400
+Tipo: 3; Nombre: datolita; peso: 14.400
+Tipo: 4; Nombre: palisandro; peso: 14.600
+Tipo: 3; Nombre: amatista; peso: 4.800
+Tipo: 4; Nombre: teca; peso: 5.000
+Nombre: Lair McAllary; Vigor: 100.000; Clan: McAllary
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 4
+Tipo: 3; Nombre: alejandrita; peso: 7.200
+Tipo: 4; Nombre: rattan; peso: 7.400
+Tipo: 3; Nombre: malaquita; peso: 8.400
+Tipo: 4; Nombre: abaca; peso: 8.600
+Nombre: Carlton McAllary; Vigor: 95.000; Clan: McAllary
+Cesta:
+Total de productos: 4
+Tipo: 6; Nombre: blenda; peso: 10.200
+Tipo: 1; Nombre: calabaza de invierno; peso: 10.400
+Tipo: 2; Nombre: pavo; peso: 10.600
+Tipo: 6; Nombre: cianita; peso: 11.400
+Nombre: Ishbel McAllary; Vigor: 100.000; Clan: McAllary
+Cesta:
+Total de productos: 0
+------------ Estado final del feudo --------------
+Terreno 0:
+ x x x
+ x E F
+ V A x
+ x E F
+Terreno 1:
+ x x x x
+ E F V A
+ x x E F
+ V A x x
+ E F V A
+Terreno 2:
+ x x E x x
+ x x x E x
+ V A x x E
+ F V A x x
+ E F V A x
+ x E F V A
+------------ Tributa sin deidad en el clan --------------------
+Neakail McAllary incrementa su vigor al tributar en 5.000
+Eara McAllary incrementa su vigor al tributar en 5.000
+Frang McAllary incrementa su vigor al tributar en 0.000
+Lair McAllary incrementa su vigor al tributar en 0.000
+Carlton McAllary incrementa su vigor al tributar en 5.000
+Ishbel McAllary incrementa su vigor al tributar en 0.000
+------------ Plegaria sin deidad en el clan --------------------
+Neakail McAllary incrementa su vigor con plegaria -> false
+Eara McAllary incrementa su vigor con plegaria -> false
+Frang McAllary incrementa su vigor con plegaria -> false
+Lair McAllary incrementa su vigor con plegaria -> false
+Carlton McAllary incrementa su vigor con plegaria -> false
+Ishbel McAllary incrementa su vigor con plegaria -> false

@@ -1,0 +1,6 @@
+No come 18 en la posicion 6
+No come 4 en la posicion -1
+Datos RauD: Neckin macho cap.hijos(4) [3,3,4,6,9,13]
+Datos RauC: hembra cap.parejas(4) [3,3,4,6,9,13,18]
+Datos RauD: Neckin macho cap.hijos(4) [3,3,4,6,9,13]
+Datos RauC: hembra cap.parejas(4) [3,3,4,6,9,13,18]

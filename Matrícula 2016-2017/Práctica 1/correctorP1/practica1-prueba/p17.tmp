@@ -1,0 +1,44 @@
+sector situado ha creado la coordenada [0,0,0]
+sector situado ha creado la coordenada [0,0,1]
+sector situado ha creado la coordenada [0,0,2]
+sector situado ha creado la coordenada [0,1,1]
+sector situado ha creado la coordenada [0,1,2]
+sector situado ha creado la coordenada [0,2,0]
+sector situado ha creado la coordenada [0,2,2]
+sector situado ha creado la coordenada [0,3,0]
+sector situado ha creado la coordenada [0,3,1]
+sector situado ha creado la coordenada [1,0,0]
+sector situado ha creado la coordenada [1,0,1]
+sector situado ha creado la coordenada [1,0,2]
+sector situado ha creado la coordenada [1,1,1]
+sector situado ha creado la coordenada [1,1,2]
+sector situado ha creado la coordenada [1,2,0]
+sector situado ha creado la coordenada [1,2,2]
+sector situado ha creado la coordenada [1,3,0]
+sector situado ha creado la coordenada [1,3,1]
+sector situado ha creado la coordenada [2,0,0]
+sector situado ha creado la coordenada [2,0,1]
+mercancia 0 acelgas0.2-0.4 almacenada -> true
+mercancia 1 ajo0.7-3.6 almacenada -> true
+mercancia 2 alcachofas1.2-6.8 almacenada -> true
+mercancia 3 bacores1.7-10.0 almacenada -> true
+mercancia 4 berenjenas2.2-13.2 almacenada -> true
+mercancia 5 boniato2.7-16.4 almacenada -> true
+mercancia 6 cerezas3.2-19.5 almacenada -> true
+mercancia 7 coco3.7-22.7 almacenada -> true
+mercancia 8 datiles4.2-25.9 almacenada -> true
+mercancia 9 escarola4.7-29.1 almacenada -> true
+mercancia 10 escorzonera5.2-32.4 almacenada -> true
+mercancia 11 fresas5.7-35.6 almacenada -> true
+mercancia 12 guisantes6.2-38.8 almacenada -> true
+mercancia 13 kiwis6.7-42.0 almacenada -> true
+mercancia 14 mandarinas7.2-45.2 almacenada -> true
+mercancia 15 manzana7.7-48.4 almacenada -> true
+mercancia 16 naranja8.2-51.6 almacenada -> true
+mercancia 17 pera8.7-54.8 almacenada -> true
+mercancia 18 rabano9.2-58.0 almacenada -> true
+mercancia 19 remolacha9.7-61.2 almacenada -> true
+mercancia 20 uva10.2-64.4 no almacenada
+mercancia 21 valerianela10.7-67.6 almacenada -> true
+mercancia 22 zanahorias11.2-70.8 almacenada -> true
+embarque de acelgas0.2-0.4

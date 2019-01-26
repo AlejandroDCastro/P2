@@ -1,0 +1,166 @@
+Conquistado terreno 0 -> true
+Conquistado terreno 1 -> true
+Conquistado terreno 2 -> true
+------------ Estado inicial del feudo --------------
+Terreno 0:
+ V A P
+ M E F
+ V A P
+ M E F
+Terreno 1:
+ V A P M
+ E F V A
+ P M E F
+ V A P M
+ E F V A
+Terreno 2:
+ P M E F V
+ A P M E F
+ V A P M E
+ F V A P M
+ E F V A P
+ M E F V A
+------------ Recolectando en el feudo --------------------
+Habitantes del clan McAllary
+Productos recolectados por Neakail McAllary: 4
+Productos recolectados por Eara McAllary: 4
+Productos recolectados por Frang McAllary: 10
+Productos recolectados por Lair McAllary: 2
+Productos recolectados por Carlton McAllary: 4
+Productos recolectados por Ishbel McAllary: 4
+------------ Plebeyos domesticando bestias ---------------
+Neakail McAllary domestica a Chibi -> true
+Eara McAllary domestica a Nefertaria -> true
+Carlton McAllary domestica a Bunny -> true
+Estado de los habitantes del clan despues de recolecta y domestica:
+Nombre: Neakail McAllary; Vigor: 95.000; Clan: McAllary
+Cesta:
+Total de productos: 4
+Tipo: 1; Nombre: brocoli; peso: 3.200
+Tipo: 2; Nombre: vaca; peso: 3.400
+Tipo: 3; Nombre: agata; peso: 3.600
+Tipo: 4; Nombre: caoba; peso: 3.800
+Bestiola: Chibi -> Amo: Neakail McAllary
+Nombre: Eara McAllary; Vigor: 95.000; Clan: McAllary
+Cesta:
+Total de productos: 4
+Tipo: 1; Nombre: espinaca; peso: 5.600
+Tipo: 2; Nombre: pollo; peso: 5.800
+Tipo: 3; Nombre: cuarzo; peso: 6.000
+Tipo: 4; Nombre: mindi; peso: 6.200
+Bestiola: Nefertaria -> Amo: Eara McAllary
+Nombre: Frang McAllary; Vigor: 99.950; Clan: McAllary
+Cesta:
+Total de productos: 5
+Tipo: 1; Nombre: chiribias; peso: 0.100
+Tipo: 2; Nombre: calamares; peso: 0.100
+Tipo: 3; Nombre: carbon; peso: 0.100
+Tipo: 4; Nombre: rododendro; peso: 0.100
+Tipo: 6; Nombre: esperiac; peso: 0.100
+Armamento:
+Total de productos: 10
+Tipo: 3; Nombre: rodonita; peso: 9.600
+Tipo: 4; Nombre: cerezo; peso: 9.800
+Tipo: 3; Nombre: pirita; peso: 10.800
+Tipo: 4; Nombre: fresno; peso: 11.000
+Tipo: 3; Nombre: kunzita; peso: 12.000
+Tipo: 4; Nombre: haya; peso: 12.200
+Tipo: 3; Nombre: esmeralda; peso: 13.200
+Tipo: 4; Nombre: nogal; peso: 13.400
+Tipo: 3; Nombre: datolita; peso: 14.400
+Tipo: 4; Nombre: palisandro; peso: 14.600
+Nombre: Lair McAllary; Vigor: 99.950; Clan: McAllary
+Cesta:
+Total de productos: 5
+Tipo: 1; Nombre: chiribias; peso: 0.100
+Tipo: 2; Nombre: calamares; peso: 0.100
+Tipo: 3; Nombre: carbon; peso: 0.100
+Tipo: 4; Nombre: rododendro; peso: 0.100
+Tipo: 6; Nombre: esperiac; peso: 0.100
+Armamento:
+Total de productos: 2
+Tipo: 3; Nombre: amatista; peso: 4.800
+Tipo: 4; Nombre: teca; peso: 5.000
+Nombre: Carlton McAllary; Vigor: 95.000; Clan: McAllary
+Cesta:
+Total de productos: 4
+Tipo: 6; Nombre: actinolita; peso: 6.600
+Tipo: 1; Nombre: lechuga romana; peso: 6.800
+Tipo: 2; Nombre: conejo; peso: 7.000
+Tipo: 3; Nombre: alejandrita; peso: 7.200
+Bestiola: Bunny -> Amo: Carlton McAllary
+Nombre: Ishbel McAllary; Vigor: 95.000; Clan: McAllary
+Cesta:
+Total de productos: 4
+Tipo: 6; Nombre: blenda; peso: 10.200
+Tipo: 1; Nombre: calabaza de invierno; peso: 10.400
+Tipo: 2; Nombre: pavo; peso: 10.600
+Tipo: 6; Nombre: cianita; peso: 11.400
+------------ Realizando trueques --------------------
+Neakail McAllary hace trueque con Eara McAllary -> [Chibi, Nefertaria]
+Eara McAllary hace trueque con Frang McAllary -> [chiribias, mindi]
+Frang McAllary hace trueque con Lair McAllary -> [teca, rodonita]
+Carlton McAllary hace trueque con Ishbel McAllary -> [Bunny, Ignoto]
+Nombre: Neakail McAllary; Vigor: 95.000; Clan: McAllary
+Cesta:
+Total de productos: 4
+Tipo: 1; Nombre: brocoli; peso: 3.200
+Tipo: 2; Nombre: vaca; peso: 3.400
+Tipo: 3; Nombre: agata; peso: 3.600
+Tipo: 4; Nombre: caoba; peso: 3.800
+Bestiola: Nefertaria -> Amo: Neakail McAllary
+Nombre: Eara McAllary; Vigor: 95.000; Clan: McAllary
+Cesta:
+Total de productos: 4
+Tipo: 1; Nombre: espinaca; peso: 5.600
+Tipo: 2; Nombre: pollo; peso: 5.800
+Tipo: 3; Nombre: cuarzo; peso: 6.000
+Tipo: 1; Nombre: chiribias; peso: 0.100
+Bestiola: Chibi -> Amo: Eara McAllary
+Nombre: Frang McAllary; Vigor: 99.950; Clan: McAllary
+Cesta:
+Total de productos: 5
+Tipo: 4; Nombre: mindi; peso: 6.200
+Tipo: 2; Nombre: calamares; peso: 0.100
+Tipo: 3; Nombre: carbon; peso: 0.100
+Tipo: 4; Nombre: rododendro; peso: 0.100
+Tipo: 6; Nombre: esperiac; peso: 0.100
+Armamento:
+Total de productos: 10
+Tipo: 4; Nombre: cerezo; peso: 9.800
+Tipo: 3; Nombre: pirita; peso: 10.800
+Tipo: 4; Nombre: fresno; peso: 11.000
+Tipo: 3; Nombre: kunzita; peso: 12.000
+Tipo: 4; Nombre: haya; peso: 12.200
+Tipo: 3; Nombre: esmeralda; peso: 13.200
+Tipo: 4; Nombre: nogal; peso: 13.400
+Tipo: 3; Nombre: datolita; peso: 14.400
+Tipo: 4; Nombre: palisandro; peso: 14.600
+Tipo: 4; Nombre: teca; peso: 5.000
+Nombre: Lair McAllary; Vigor: 99.950; Clan: McAllary
+Cesta:
+Total de productos: 5
+Tipo: 1; Nombre: chiribias; peso: 0.100
+Tipo: 2; Nombre: calamares; peso: 0.100
+Tipo: 3; Nombre: carbon; peso: 0.100
+Tipo: 4; Nombre: rododendro; peso: 0.100
+Tipo: 6; Nombre: esperiac; peso: 0.100
+Armamento:
+Total de productos: 2
+Tipo: 3; Nombre: amatista; peso: 4.800
+Tipo: 3; Nombre: rodonita; peso: 9.600
+Nombre: Carlton McAllary; Vigor: 95.000; Clan: McAllary
+Cesta:
+Total de productos: 4
+Tipo: 6; Nombre: actinolita; peso: 6.600
+Tipo: 1; Nombre: lechuga romana; peso: 6.800
+Tipo: 2; Nombre: conejo; peso: 7.000
+Tipo: 3; Nombre: alejandrita; peso: 7.200
+Nombre: Ishbel McAllary; Vigor: 95.000; Clan: McAllary
+Cesta:
+Total de productos: 4
+Tipo: 6; Nombre: blenda; peso: 10.200
+Tipo: 1; Nombre: calabaza de invierno; peso: 10.400
+Tipo: 2; Nombre: pavo; peso: 10.600
+Tipo: 6; Nombre: cianita; peso: 11.400
+Bestiola: Bunny -> Amo: Ishbel McAllary

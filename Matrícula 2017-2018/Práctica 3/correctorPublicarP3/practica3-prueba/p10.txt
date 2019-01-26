@@ -1,0 +1,19 @@
+RasgoPreexistenteException: (sombrero,false)
+RasgoPreexistenteException: (ojos,azules)
+RasgoPreexistenteException: (gafas,false)
+RasgoPreexistenteException: (ojos,marronClaro)
+RasgoPreexistenteException: (ojos,blancos)
+TableroIncompletoException: 2
+fila 0:
+Piccolo[ojos(blancos),sombrero(false),pelo(calvo),gafas(false),pendientes(true),bigote(false),barba(false)]
+Vegeta[ojos(azules),sombrero(false),pelo(negro),gafas(false),pendientes(false),bigote(true),barba(true)]
+fila 1:
+Bulma[ojos(azul),sombrero(false),pelo(azul),gafas(false),pendientes(true),bigote(false),barba(false)]
+Trunks[ojos(azules),sombrero(false),pelo(grisaceo),gafas(false),pendientes(false),bigote(false),barba(false)]
+
+fila 0:
+Bardock[ojos(marronClaro),sombrero(true),pelo(negro),gafas(false),pendientes(true),bigote(true),barba(true)]
+Freezer[ojos(purpura),sombrero(false),pelo(calvo),gafas(false),pendientes(false),bigote(false),barba(false)]
+Piccolo[ojos(blancos),sombrero(false),pelo(calvo),gafas(false),pendientes(true),bigote(false),barba(false)]
+fila 1:
+Vegeta[ojos(marron),sombrero(false),pelo(negro),gafas(false),pendientes(false),bigote(true),barba(true)]

@@ -1,0 +1,13 @@
+Terreno campo:
+ V A P M
+ E F V A
+ P M E F
+Eara Duncan domestica con exito a PiriPiri -> true
+encontrado amuleto rodocrosita
+Terreno campo:
+ V A P M
+ E x V A
+ P M E F
+Saruman ha malogrado a Eara Duncan -> true
+la bestia ha sido hechizada -> Nombre: PiriPiri; Amo: Eara Duncan; Fuerza: 9.500; Amuleto -> Tipo: 6; Nombre: rodocrosita; peso: 2.500
+la bestia ha sido liberada de su hechizo -> Nombre: PiriPiri; Amo: Eara Duncan; Fuerza: 9.500; Amuleto -> Tipo: 6; Nombre: rodocrosita; peso: 2.500

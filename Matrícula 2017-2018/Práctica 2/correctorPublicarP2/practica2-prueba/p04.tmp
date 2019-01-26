@@ -1,0 +1,65 @@
+Conquistado terreno 0 -> true
+Conquistado terreno 1 -> true
+------ Estado inicial del feudo de McAllary -------------
+Terreno 0:
+ V A P
+ M E F
+ V A P
+ M E F
+------------ Recolectando en el feudo --------------------
+Habitantes del clan McAllary
+Productos recolectados por Neakail McAllary: 4
+Estado de los habitantes del clan McAllary despues de la recolecta:
+Nombre: Neakail McAllary; Vigor: 100.000; Clan: McAllary
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 4
+Tipo: 3; Nombre: agata; peso: 3.600
+Tipo: 4; Nombre: caoba; peso: 3.800
+Tipo: 3; Nombre: amatista; peso: 4.800
+Tipo: 4; Nombre: teca; peso: 5.000
+------ Estado inicial del feudo de Duncan -------------
+Terreno 0:
+ V A P M
+ E F V A
+ P M E F
+ V A P M
+ E F V A
+------------ Recolectando en el feudo --------------------
+Habitantes del clan Duncan
+Productos recolectados por Ishbel Duncan: 6
+Estado de los habitantes del clan Duncan despues de la recolecta:
+Nombre: Ishbel Duncan; Vigor: 100.000; Clan: Duncan
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 6
+Tipo: 3; Nombre: cuarzo; peso: 6.000
+Tipo: 4; Nombre: mindi; peso: 6.200
+Tipo: 3; Nombre: alejandrita; peso: 7.200
+Tipo: 4; Nombre: rattan; peso: 7.400
+Tipo: 3; Nombre: malaquita; peso: 8.400
+Tipo: 4; Nombre: abaca; peso: 8.600
+--------- Lucha de guerreros (Neakail McAllary vs Ishbel Duncan) ---------------
+El ganador es Ishbel Duncan
+Nombre: Neakail McAllary; Vigor: 100.000; Clan: McAllary
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 0
+Nombre: Ishbel Duncan; Vigor: 100.000; Clan: Duncan
+Cesta:
+Total de productos: 0
+Armamento:
+Total de productos: 10
+Tipo: 3; Nombre: cuarzo; peso: 6.000
+Tipo: 4; Nombre: mindi; peso: 6.200
+Tipo: 3; Nombre: alejandrita; peso: 7.200
+Tipo: 4; Nombre: rattan; peso: 7.400
+Tipo: 3; Nombre: malaquita; peso: 8.400
+Tipo: 4; Nombre: abaca; peso: 8.600
+Tipo: 3; Nombre: agata; peso: 3.600
+Tipo: 4; Nombre: caoba; peso: 3.800
+Tipo: 3; Nombre: amatista; peso: 4.800
+Tipo: 4; Nombre: teca; peso: 5.000

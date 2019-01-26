@@ -1,0 +1,139 @@
+Mira que Tomatico de 1.0 Kilos ma bonico
+Mira que Conejico de 2.35452 Kilos ma bonico
+Mira que Pedrolo de 14.70904 Kilos ma bonico
+Mira que Palico de 12.06356 Kilos ma bonico
+Mira que Zulo de 19.41808 Kilos ma bonico
+Mira que Cosico de 11.7726 Kilos ma bonico
+Mira que Tomatico de 14.12712 Kilos ma bonico
+Mira que Conejico de 26.48164 Kilos ma bonico
+Mira que Pedrolo de 23.83616 Kilos ma bonico
+Mira que Palico de 6.19068 Kilos ma bonico
+Mira que Zulo de 23.5452 Kilos ma bonico
+Mira que Cosico de 25.89972 Kilos ma bonico
+Mira que Tomatico de 13.25424 Kilos ma bonico
+Mira que Conejico de 10.60876 Kilos ma bonico
+Mira que Pedrolo de 17.96328 Kilos ma bonico
+Mira que Palico de 10.3178 Kilos ma bonico
+Mira que Zulo de 12.67232 Kilos ma bonico
+Mira que Cosico de 25.02684 Kilos ma bonico
+Mira que Tomatico de 22.38136 Kilos ma bonico
+Mira que Conejico de 29.73588 Kilos ma bonico
+Mira que Pedrolo de 22.0904 Kilos ma bonico
+Mira que Palico de 24.44492 Kilos ma bonico
+Mira que Zulo de 11.79944 Kilos ma bonico
+Mira que Cosico de 9.15396 Kilos ma bonico
+Mira que Tomatico de 16.50848 Kilos ma bonico
+Mira que Conejico de 8.863 Kilos ma bonico
+Mira que Pedrolo de 11.21752 Kilos ma bonico
+Mira que Palico de 23.57204 Kilos ma bonico
+Mira que Zulo de 20.926560000000002 Kilos ma bonico
+Mira que Cosico de 28.28108 Kilos ma bonico
+Mira que Tomatico de 20.6356 Kilos ma bonico
+Mira que Conejico de 22.990119999999997 Kilos ma bonico
+Mira que Pedrolo de 35.34464 Kilos ma bonico
+Mira que Palico de 32.69916 Kilos ma bonico
+Mira que Zulo de 15.05368 Kilos ma bonico
+Mira que Cosico de 32.4082 Kilos ma bonico
+Mira que Tomatico de 34.76272 Kilos ma bonico
+Mira que Conejico de 22.117240000000002 Kilos ma bonico
+Mira que Pedrolo de 19.47176 Kilos ma bonico
+Mira que Palico de 26.82628 Kilos ma bonico
+
+Colocamos Tomatico1 en 0, 0? Pos caro
+Colocamos Tomatico1 en 0, 3? Axo pos no
+Colocamos Conejico2 en 0, 6? Pos caro
+Colocamos Conejico2 en 0, 9? Axo pos no
+Colocamos Pedrolo3 en 1, 1? Pos caro
+Colocamos Pedrolo3 en 1, 4? Axo pos no
+Colocamos Palico4 en 1, 7? Pos caro
+Colocamos Zulo5 en 2, 2? Pos caro
+Colocamos Cosico6 en 2, 5? Pos caro
+Colocamos Cosico6 en 2, 8? Axo pos no
+Colocamos Tomatico7 en 3, 3? Pos caro
+Colocamos Conejico8 en 3, 6? Pos caro
+Colocamos Conejico8 en 3, 9? Axo pos no
+Colocamos Pedrolo9 en 4, 0? Pos caro
+Colocamos Pedrolo9 en 4, 3? Axo pos no
+Colocamos Palico10 en 4, 6? Pos caro
+Colocamos Palico10 en 4, 9? Axo pos no
+Colocamos Zulo11 en 5, 1? Pos caro
+Colocamos Zulo11 en 5, 4? Axo pos no
+Colocamos Cosico12 en 5, 7? Pos caro
+Colocamos Tomatico13 en 6, 2? Pos caro
+Colocamos Conejico14 en 6, 5? Pos caro
+Colocamos Conejico14 en 6, 8? Axo pos no
+Colocamos Pedrolo15 en 7, 3? Pos caro
+Colocamos Palico16 en 7, 6? Pos caro
+Colocamos Palico16 en 7, 9? Axo pos no
+Colocamos Zulo17 en 8, 0? Pos caro
+Colocamos Zulo17 en 8, 3? Axo pos no
+Colocamos Cosico18 en 8, 6? Pos caro
+Colocamos Cosico18 en 8, 9? Axo pos no
+Colocamos Tomatico19 en 9, 1? Pos caro
+Colocamos Tomatico19 en 9, 4? Axo pos no
+Colocamos Conejico20 en 9, 7? Pos caro
+Colocamos Palico40 en -1, 4? Axo pos no
+Colocamos Palico40 en 1, 40? Axo pos no
+Colocamos Palico40 en 4, 0? Axo pos no
+
++Axo, Paco, esta el Tomatico1 sembrao? -Caro, pijo
++Axo, Paco, esta el Conejico2 sembrao? -Caro, pijo
++Axo, Paco, esta el Pedrolo3 sembrao? -Caro, pijo
++Axo, Paco, esta el Palico4 sembrao? -Caro, pijo
++Axo, Paco, esta el Zulo5 sembrao? -Caro, pijo
++Axo, Paco, esta el Cosico6 sembrao? -Caro, pijo
++Axo, Paco, esta el Tomatico7 sembrao? -Caro, pijo
++Axo, Paco, esta el Conejico8 sembrao? -Caro, pijo
++Axo, Paco, esta el Pedrolo9 sembrao? -Caro, pijo
++Axo, Paco, esta el Palico10 sembrao? -Caro, pijo
++Axo, Paco, esta el Zulo11 sembrao? -Caro, pijo
++Axo, Paco, esta el Cosico12 sembrao? -Caro, pijo
++Axo, Paco, esta el Tomatico13 sembrao? -Caro, pijo
++Axo, Paco, esta el Conejico14 sembrao? -Caro, pijo
++Axo, Paco, esta el Pedrolo15 sembrao? -Caro, pijo
++Axo, Paco, esta el Palico16 sembrao? -Caro, pijo
++Axo, Paco, esta el Zulo17 sembrao? -Caro, pijo
++Axo, Paco, esta el Cosico18 sembrao? -Caro, pijo
++Axo, Paco, esta el Tomatico19 sembrao? -Caro, pijo
++Axo, Paco, esta el Conejico20 sembrao? -Caro, pijo
++Axo, Paco, esta el Pedrolo21 sembrao? -Huevoh!
++Axo, Paco, esta el Palico22 sembrao? -Huevoh!
++Axo, Paco, esta el Zulo23 sembrao? -Huevoh!
++Axo, Paco, esta el Cosico24 sembrao? -Huevoh!
++Axo, Paco, esta el Tomatico25 sembrao? -Huevoh!
++Axo, Paco, esta el Conejico26 sembrao? -Huevoh!
++Axo, Paco, esta el Pedrolo27 sembrao? -Huevoh!
++Axo, Paco, esta el Palico28 sembrao? -Huevoh!
++Axo, Paco, esta el Zulo29 sembrao? -Huevoh!
++Axo, Paco, esta el Cosico30 sembrao? -Huevoh!
++Axo, Paco, esta el Tomatico31 sembrao? -Huevoh!
++Axo, Paco, esta el Conejico32 sembrao? -Huevoh!
++Axo, Paco, esta el Pedrolo33 sembrao? -Huevoh!
++Axo, Paco, esta el Palico34 sembrao? -Huevoh!
++Axo, Paco, esta el Zulo35 sembrao? -Huevoh!
++Axo, Paco, esta el Cosico36 sembrao? -Huevoh!
++Axo, Paco, esta el Tomatico37 sembrao? -Huevoh!
++Axo, Paco, esta el Conejico38 sembrao? -Huevoh!
++Axo, Paco, esta el Pedrolo39 sembrao? -Huevoh!
++Axo, Paco, esta el Palico40 sembrao? -Huevoh!
+
+Recolecta Tio Pencho un Tomatico? No ni na - 99.9
+Recolecta Tio Pencho un Conejico? No ni na - 98.16454800000001
+Recolecta Tio Pencho un Pedrolo? No ni na - 93.943644
+Recolecta Tio Pencho un Palico? No ni na - 88.487288
+Recolecta Tio Pencho un Zulo? Axo que va - 88.487288
+Recolecta Tio Pencho un Cosico? No ni na - 81.060028
+Recolecta Tio Pencho un Tomatico? No ni na - 71.397316
+Recolecta Tio Pencho un Conejico? No ni na - 59.749152
+Recolecta Tio Pencho un Pedrolo? No ni na - 47.365536000000006
+Recolecta Tio Pencho un Palico? No ni na - 35.24646800000001
+Recolecta Tio Pencho un Zulo? Axo que va - 35.24646800000001
+Recolecta Tio Pencho un Cosico? No ni na - 18.406496000000008
+Recolecta Tio Pencho un Tomatico? No ni na - 1.5810720000000078
+Recolecta Tio Pencho un Conejico? Axo que va - 0.0
+Recolecta Tio Pencho un Pedrolo? Axo que va - 0.0
+Recolecta Tio Pencho un Palico? Axo que va - 0.0
+
++Tio Pencho, que te has traio de la wertecica? 
+-Pos un Tomatico1, un Conejico2, un Pedrolo3, un Palico4, un Cosico6, un Tomatico7, un Conejico8, un Pedrolo9, un Palico10, un Cosico12 y un Tomatico13
+Estoy to muerto axo, me queda na mas 0.0 de vigorcico

@@ -1,0 +1,39 @@
+Generado: true -> en (0,0); tipo: 1; peso: 1.500
+Generado: true -> en (1,0); tipo: 2; peso: 1.700
+Generado: true -> en (2,0); tipo: 3; peso: 1.900
+Generado: false -> en (3,0); tipo: 4; peso: 2.100
+Generado: false -> en (4,0); tipo: 4; peso: 2.300
+Generado: false -> en (5,0); tipo: 4; peso: 2.500
+Generado: true -> en (0,1); tipo: 4; peso: 2.700
+Generado: false -> en (1,1); tipo: 5; peso: 2.900
+Generado: true -> en (1,1); tipo: 6; peso: 3.100
+Generado: true -> en (2,1); tipo: 1; peso: 3.300
+Generado: false -> en (3,1); tipo: 2; peso: 3.500
+Generado: false -> en (4,1); tipo: 2; peso: 3.700
+Generado: false -> en (5,1); tipo: 2; peso: 3.900
+Generado: true -> en (0,2); tipo: 2; peso: 4.100
+Generado: true -> en (1,2); tipo: 3; peso: 4.300
+Generado: true -> en (2,2); tipo: 4; peso: 4.500
+Generado: false -> en (3,2); tipo: 5; peso: 4.700
+Generado: false -> en (3,2); tipo: 6; peso: 4.900
+Generado: false -> en (4,2); tipo: 6; peso: 5.100
+Generado: false -> en (5,2); tipo: 6; peso: 5.300
+Generado: true -> en (0,3); tipo: 6; peso: 5.500
+Generado: true -> en (1,3); tipo: 1; peso: 5.700
+Generado: true -> en (2,3); tipo: 2; peso: 5.900
+Generado: false -> en (3,3); tipo: 3; peso: 6.100
+Generado: false -> en (4,3); tipo: 3; peso: 6.300
+Generado: false -> en (5,3); tipo: 3; peso: 6.500
+Parcela (0,0) ->  tipo: 1; peso: 1.500
+Parcela (0,1) ->  tipo: 4; peso: 2.700
+Parcela (0,2) ->  tipo: 2; peso: 4.100
+Parcela (0,3) ->  tipo: 6; peso: 5.500
+Parcela (1,0) ->  tipo: 2; peso: 1.700
+Parcela (1,1) ->  tipo: 6; peso: 3.100
+Parcela (1,2) ->  tipo: 3; peso: 4.300
+Parcela (1,3) ->  tipo: 1; peso: 5.700
+Parcela (2,0) ->  tipo: 3; peso: 1.900
+Parcela (2,1) ->  tipo: 1; peso: 3.300
+Parcela (2,2) ->  tipo: 4; peso: 4.500
+Parcela (2,3) ->  tipo: 2; peso: 5.900
+[54, 54, 36, 36, 36]

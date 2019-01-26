@@ -1,0 +1,12 @@
+Nivel energetico del RauD (hembra) -> 150
+Interacciona de 10 -> 3
+Interacciona de 9 -> 39
+Interacciona de 8 -> 31
+Interacciona de 7 -> 24
+Interacciona de 6 -> 18
+Interacciona de 5 -> 13
+Interacciona de 4 -> 9
+Interacciona de 3 -> 6
+Interacciona de 2 -> 4
+Interacciona de 1 -> 3
+Nivel energetico del RauD (hembra) despues de interaccionar -> 0

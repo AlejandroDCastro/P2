@@ -1,0 +1,13 @@
+Diego esta completo? -> false
+Diego esta completo? -> false
+Diego esta completo? -> false
+Diego esta completo? -> false
+Diego esta completo? -> false
+RasgoPreexistenteException: (ojos,violetas)
+RasgoPreexistenteException: (bigote,true)
+Diego esta completo? -> false
+RasgoPreexistenteException: (barba,false)
+RasgoPreexistenteException: (pelo,marron)
+Diego esta completo? -> true
+RasgoPreexistenteException: (sombrero,false)
+Diego[barba(false),ojos(violetas),bigote(true),pelo(marron),gafas(false),pendientes(false),sombrero(false)]

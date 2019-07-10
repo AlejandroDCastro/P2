@@ -15,26 +15,26 @@ public class Metodos {
 
 	// metodo 1
 	public static int[] nomultiplos(int num, int n1, int n2) {
-		int []__devuelve__ = null;
-		int []__aux__ = null;
+		int []devuelve_ = null;
+		int []aux_ = null;
 		int contador = 0;
 
 		// si algun dato es igual o menor que cero devolvemos null
 		if(num > 0  ||  n1 > 0  ||  n2 > 0) {
 
 			// bucle para ver que numeros no son multiplos
-			__aux__ = new int[num];
+			aux_ = new int[num];
 			for(int i=1; i<=num; i++) {
 				if(!compMultiplos(num,n1)  &&  !compMultiplos(num,n2)) {
-					__aux__[contador++] = i;
+					aux_[contador++] = i;
 				}
 			}
 
 			// bucle para crear el array de no primos
-			__devuelve__ = new int[contador];
+			devuelve_ = new int[contador];
 			for(int i=0; i<contador; i++) {
-				if(__aux__[i] != 0) {
-					__devuelve__[i] = __aux__[i];
+				if(aux_[i] != 0) {
+					devuelve_[i] = aux_[i];
 				} else {
 					break;
 				}
@@ -42,7 +42,7 @@ public class Metodos {
 
 		}
 
-		return __devuelve__;
+		return devuelve_;
 	}
 
 
@@ -50,18 +50,18 @@ public class Metodos {
 
 	// metodo 2
 	public static String[] sufijos(String s) {
-		String[] __devuelve__ = new String[s.length()];
+		String[] devuelve_ = new String[s.length()];
 		int aux = 0;
 
 		for(int i=s.length()-1; i<=0; i--) {
-			__devuelve__[aux] = String.valueOf(s.charAt(i));
+			devuelve_[aux] = String.valueOf(s.charAt(i));
 			if(aux > 0) {
-				__devuelve__[aux] += __devuelve__[aux-1];
+				devuelve_[aux] += devuelve_[aux-1];
 			}
 			aux++;
 		}
 
-		return __devuelve__;
+		return devuelve_;
 	}
 
 
@@ -69,18 +69,18 @@ public class Metodos {
 
 	// metodo 3
 	public static String[] prefijos(String s) {
-		String[] __devuelve__ = new String[s.length()];
+		String[] devuelve_ = new String[s.length()];
 		int aux = 0;
 
 		for(int i=0; i<=s.length()-1; i--) {
-			__devuelve__[aux] = String.valueOf(s.charAt(i));
+			devuelve_[aux] = String.valueOf(s.charAt(i));
 			if(aux > 0) {
-				__devuelve__[aux] = __devuelve__[aux-1] + __devuelve__[aux];
+				devuelve_[aux] = devuelve_[aux-1] + devuelve_[aux];
 			}
 			aux++;
 		}
 
-		return __devuelve__;
+		return devuelve_;
 	}
 
 
@@ -88,33 +88,33 @@ public class Metodos {
 
 	// metodo 4
 	public static String IMC(double altura, double peso, int edad) {
-		String __devuelve__ = null;
-		double __imc__ = 0.0;
+		String devuelve_ = null;
+		double imc_ = 0.0;
 
 		if(altura > 0.0  ||  peso > 0.0  ||  edad > 0) {
 
-			__imc__ = peso / Math.pow(altura,2);
-			if(__imc__ < 22) {
+			imc_ = peso / Math.pow(altura,2);
+			if(imc_ < 22) {
 				if(edad < 45) {
-					__devuelve__ = "bajo";
+					devuelve_ = "bajo";
 				} else {
-					__devuelve__ = "medio";
+					devuelve_ = "medio";
 				}
 			} else {
 				if(edad < 45) {
-					__devuelve__ = "medio";
+					devuelve_ = "medio";
 				} else {
-					__devuelve__ = "alto";
+					devuelve_ = "alto";
 				}
 			}
 
 		} else {
 
-			__devuelve__ = "error en entrada";
+			devuelve_ = "error en entrada";
 
 		}
 
-		return __devuelve__;
+		return devuelve_;
 	}
 
 
@@ -122,8 +122,8 @@ public class Metodos {
 
 	// metodo 5
 	public static int[] comunes(int[] v1, int[] v2) {
-		int[] __aux__ = new int[v1.length];
-		int[] __devuelve__;
+		int[] aux_ = new int[v1.length];
+		int[] devuelve_;
 		int contador = 0;
 		int aux = 0;
 
@@ -131,26 +131,26 @@ public class Metodos {
 		for(int i=0; i<v1.length; i++) {
 			for(int j=0; j<v2.length; j++) {
 				if(v1[i] == v2[j]) {
-					__aux__[contador++] = v1[i];
+					aux_[contador++] = v1[i];
 					break;
 				}
 			}
 		}
 
 		// los ordenamos
-		__devuelve__ = new int[contador];
+		devuelve_ = new int[contador];
 		for(int i=0; i<contador; i++) {
-			__devuelve__[i] = __aux__[i];
+			devuelve_[i] = aux_[i];
 			for(int j=i; j>0; j--) {
-				if(__devuelve__[j] > __devuelve__[j-1]) {
-					aux = __devuelve__[j];
-					__devuelve__[j] = __devuelve__[j-1];
-					__devuelve__[j-1] = aux;
+				if(devuelve_[j] > devuelve_[j-1]) {
+					aux = devuelve_[j];
+					devuelve_[j] = devuelve_[j-1];
+					devuelve_[j-1] = aux;
 				}
 			}
 		}
 
-		return __devuelve__;
+		return devuelve_;
 	}
 
 
@@ -158,16 +158,16 @@ public class Metodos {
 
 	// metodo que devuelve el numero de elementos de la secuencia Collatz
 	public static int numSecuencia(int num) {
-		int __sec__ = num;
-		int __devuelve__ = 0;
+		int sec_ = num;
+		int devuelve_ = 0;
 
-		while(__sec__ > 1) {
-			__sec__ = (__sec__%2 == 0) ? (__sec__/2) : (__sec__*3+1);
-			__devuelve__++;
+		while(sec_ > 1) {
+			sec_ = (sec_%2 == 0) ? (sec_/2) : (sec_*3+1);
+			devuelve_++;
 		}
-		__devuelve__++;
+		devuelve_++;
 
-		return __devuelve__;
+		return devuelve_;
 	}
 
 
@@ -190,31 +190,202 @@ public class Metodos {
 
 	// metodo 7
 	public static int[] Collatz(int i) {
-		int[] __secuencia__ = null;
-		int contador = 0, __num__ = i;
+		int[] secuencia_ = null;
+		int contador = 0, num_ = i;
 
 		if(i > 0) {
 
 			// inicializamos el array con el valor del numero
-			__secuencia__ = new int[numSecuencia(i)];
-			__secuencia__[contador++] = __num__;
+			secuencia_ = new int[numSecuencia(i)];
+			secuencia_[contador++] = num_;
 
 			// obtemos la secuencia restante
-			while(__num__ > 1) {
-				__num__ = (__num__%2 == 0) ? (__num__/2) : (__num__*3+1);
-				__secuencia__[contador++] = __num__;
+			while(num_ > 1) {
+				num_ = (num_%2 == 0) ? (num_/2) : (num_*3+1);
+				secuencia_[contador++] = num_;
 			}
-			__secuencia__[contador++] = __num__;
+			secuencia_[contador++] = num_;
 
 		}
 
-		return __secuencia__;
+		return secuencia_;
 	}
 
 
 
 
 	// metodo 8
+	public static void caballo(int cor1, int cor2) {
+		int cor_x_ = 0, cor_y_ = 0, orden_ = 1;
+
+		System.out.println("caballo(" + cor1 + ", " + cor2 + ")");
+
+		if(cor1 > 0  &&  cor1 < 9  &&  cor2 > 0  &&  cor2 < 9) {
+
+			for(int i=0; i<8; i++) {
+
+				switch(orden_) {
+					case 1:
+						cor_x_ = cor1-2;
+						cor_y_ = cor2-1;
+						break;
+					case 2:
+						cor_x_ = cor1-2;
+						cor_y_ = cor2+1;
+						break;
+					case 3:
+						cor_x_ = cor1-1;
+						cor_y_ = cor2-2;
+						break;
+					case 4:
+						cor_x_ = cor1-1;
+						cor_y_ = cor2+2;
+						break;
+					case 5:
+						cor_x_ = cor1+1;
+						cor_y_ = cor2-2;
+						break;
+					case 6:
+						cor_x_ = cor1+1;
+						cor_y_ = cor2+2;
+						break;
+					case 7:
+						cor_x_ = cor1+2;
+						cor_y_ = cor2-1;
+						break;
+					case 8:
+						cor_x_ = cor1+2;
+						cor_y_ = cor2+1;
+						break;
+				}
+				orden_++;
+
+				if(cor_x_ > 0  &&  cor_x_ < 9  &&  cor_y_ > 0  &&  cor_y_ < 9) {
+					System.out.println(cor_x_ + " " + cor_y_);
+				}
+
+			}
+			
+		} else {
+
+			System.out.println("posicion incorrecta");
+
+		}
+	}
+
+
+
+
+	// metodo que calcula el numero de divisiones impares entre 2 que hay que hacer para alcanzar 1
+	public static int numDivisiones(int num) {
+		int n_ = 0, aux_ = num;
+
+		while(aux_ > 1) {
+			if(aux_%2 != 0) {
+				n_++;
+			}
+			aux_ /= 2;
+		}
+		n_++;
+
+		return n_;
+	}
+
+
+
+
+	// metodo 9
+	public static int[] multrusa(int ando, int ador) {
+		int[] devuelve_ = null;
+		int aux_ando_ = ando, aux_ador_ = ador, contador_ = 0;
+
+		if(ando > 0  &&  ador > 0) {
+
+			devuelve_ = new int[numDivisiones(ador)];
+			while(aux_ador_ > 1) {
+				if(aux_ador_%2 != 0) {
+					devuelve_[contador_++] = aux_ando_;
+				}
+				aux_ador_ /= 2;
+				aux_ando_ *= 2;
+			}
+			devuelve_[contador_++] = aux_ando_;
+
+		}
+
+		return devuelve_;
+	}
+
+
+
+
+
+	// metodo que calcula si el indice no esta en la matriz de indices de las cadenas
+	public static boolean estaEn(int[][]m, int ind) {
+		boolean devuelve_ = false;
+
+		for (int i=0; i<m.length; i++) {
+			if (ind == m[i][0]) {
+				devuelve_ = true;
+				break;
+			}
+		}
+
+		return devuelve_;
+	}
+
+
+
+
+
+	// metodo que calcular cuantas veces se repite la palabra en el string
+	public static int numRep(String[] v, String pal) {
+		int devuelve_ = 0;
+
+		for (int i=0; i<v.length; i++) {
+			if (pal.equals(v[i])) {
+				devuelve_++;
+			}
+		}
+
+		return devuelve_;
+	}
+
+
+
+
+
+	// metodo 10
+	public static String[][] histograma(String s, int i) {
+		String[] cadenas_ = s.split(" ");
+		String[][] devuelve_ = null; 
+		int contador_ = 0, repeticiones_ = 0, j = 0, indice_;
+		int[][] aux_ = new int[cadenas_.length][2]; // nos guardamos el indice de la palabra en cadenas_, y su frecuencia
+
+		// rellenamos aux_ con los valores
+		for (int x=0; x<cadenas_.length; x++) {
+			repeticiones_ = numRep(cadenas_, cadenas_[x]);
+			if (!estaEn(aux_, x)  &&  repeticiones_ > i) {
+				aux_[j][0] = x;
+				aux_[j++][1] = repeticiones_;
+				contador_++;
+			}
+		}
+
+		// creamos la matriz
+		if (contador_ > 0) {
+			devuelve_ = new String[contador_][2];
+			for (int x=0; x<contador_; x++) {
+				indice_ = aux_[x][0];
+				repeticiones_ = aux_[x][1];
+				devuelve_[x][0] = cadenas_[indice_];
+				devuelve_[x][1] = Integer.toString(repeticiones_);
+			}
+		}
+
+		return devuelve_;
+	}
+
 
 
 }

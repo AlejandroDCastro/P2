@@ -1,0 +1,3 @@
+Persona con altura=1.68; peso=54.0; edad=45 tiene un riesgo --> medio
+Persona con altura=0.0; peso=10.9; edad=1 tiene un riesgo --> error en entrada
+Persona con altura=1.55; peso=70.9; edad=44 tiene un riesgo --> medio

@@ -4,11 +4,10 @@ public class Metodos {
 
 	// metodo que comprueba si num1 es multiplo de num2
 	public static boolean compMultiplos(int num1, int num2) {
-
-		if(num1%num2 == 0) {
-			return true;
-		} else {
+		if(num1 < num2  ||  num1%num2 != 0) {
 			return false;
+		} else {
+			return true;
 		}
 	}
 
@@ -17,22 +16,22 @@ public class Metodos {
 	public static int[] nomultiplos(int num, int n1, int n2) {
 		int []devuelve_ = null;
 		int []aux_ = null;
-		int contador = 0;
+		int contador_ = 0;
 
 		// si algun dato es igual o menor que cero devolvemos null
-		if(num > 0  ||  n1 > 0  ||  n2 > 0) {
+		if(num > 0  &&  n1 > 0  &&  n2 > 0) {
 
 			// bucle para ver que numeros no son multiplos
 			aux_ = new int[num];
 			for(int i=1; i<=num; i++) {
-				if(!compMultiplos(num,n1)  &&  !compMultiplos(num,n2)) {
-					aux_[contador++] = i;
+				if(!compMultiplos(i,n1)  &&  !compMultiplos(i,n2)) {
+					aux_[contador_++] = i;
 				}
 			}
 
 			// bucle para crear el array de no primos
-			devuelve_ = new int[contador];
-			for(int i=0; i<contador; i++) {
+			devuelve_ = new int[contador_];
+			for(int i=0; i<contador_; i++) {
 				if(aux_[i] != 0) {
 					devuelve_[i] = aux_[i];
 				} else {
@@ -53,7 +52,7 @@ public class Metodos {
 		String[] devuelve_ = new String[s.length()];
 		int aux = 0;
 
-		for(int i=s.length()-1; i<=0; i--) {
+		for(int i=s.length()-1; i>=0; i--) {
 			devuelve_[aux] = String.valueOf(s.charAt(i));
 			if(aux > 0) {
 				devuelve_[aux] += devuelve_[aux-1];
@@ -72,7 +71,7 @@ public class Metodos {
 		String[] devuelve_ = new String[s.length()];
 		int aux = 0;
 
-		for(int i=0; i<=s.length()-1; i--) {
+		for(int i=0; i<=s.length()-1; i++) {
 			devuelve_[aux] = String.valueOf(s.charAt(i));
 			if(aux > 0) {
 				devuelve_[aux] = devuelve_[aux-1] + devuelve_[aux];
@@ -91,7 +90,7 @@ public class Metodos {
 		String devuelve_ = null;
 		double imc_ = 0.0;
 
-		if(altura > 0.0  ||  peso > 0.0  ||  edad > 0) {
+		if(altura > 0.0  &&  peso > 0.0  &&  edad > 0) {
 
 			imc_ = peso / Math.pow(altura,2);
 			if(imc_ < 22) {
@@ -123,26 +122,26 @@ public class Metodos {
 	// metodo 5
 	public static int[] comunes(int[] v1, int[] v2) {
 		int[] aux_ = new int[v1.length];
-		int[] devuelve_;
-		int contador = 0;
+		int[] devuelve_ = null;
+		int contador_ = 0;
 		int aux = 0;
 
 		// sacamos los enteros comunes
 		for(int i=0; i<v1.length; i++) {
 			for(int j=0; j<v2.length; j++) {
 				if(v1[i] == v2[j]) {
-					aux_[contador++] = v1[i];
+					aux_[contador_++] = v1[i];
 					break;
 				}
 			}
 		}
 
 		// los ordenamos
-		devuelve_ = new int[contador];
-		for(int i=0; i<contador; i++) {
+		devuelve_ = new int[contador_];
+		for(int i=0; i<contador_; i++) {
 			devuelve_[i] = aux_[i];
 			for(int j=i; j>0; j--) {
-				if(devuelve_[j] > devuelve_[j-1]) {
+				if(devuelve_[j] < devuelve_[j-1]) {
 					aux = devuelve_[j];
 					devuelve_[j] = devuelve_[j-1];
 					devuelve_[j-1] = aux;

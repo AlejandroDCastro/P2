@@ -1,0 +1,8 @@
+estado de jitomate -> inmaduro
+peso de jitomate despues de transforma(false) -> 0.200
+peso de jitomate despues de transforma(true) -> 0.400
+estado de jitomate -> comestible
+peso de jitomate despues de transforma(false) -> 0.400
+peso de jitomate despues de transforma(false) -> 0.600
+peso de jitomate despues de transforma(false) -> 1.000
+peso de jitomate despues de transforma(false) -> 1.600

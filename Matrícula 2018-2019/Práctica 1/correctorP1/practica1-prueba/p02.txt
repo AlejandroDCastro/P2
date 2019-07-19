@@ -1,0 +1,64 @@
+distancia entre (0,0) y (59,-169) -> 179.003
+distancia entre (-41,0) y (9,-169) -> 176.241
+distancia entre (9,0) y (-41,-169) -> 176.241
+distancia entre (59,0) y (0,-169) -> 179.003
+distancia entre (0,131) y (59,-119) -> 256.868
+distancia entre (-41,131) y (9,-119) -> 254.951
+distancia entre (9,131) y (-41,-119) -> 254.951
+distancia entre (59,131) y (0,-119) -> 256.868
+distancia entre (0,81) y (59,-69) -> 161.186
+distancia entre (-41,81) y (9,-69) -> 158.114
+distancia entre (9,81) y (-41,-69) -> 158.114
+distancia entre (59,81) y (0,-69) -> 161.186
+distancia entre (0,31) y (59,-19) -> 77.337
+distancia entre (-41,31) y (9,-19) -> 70.711
+distancia entre (9,31) y (-41,-19) -> 70.711
+distancia entre (59,31) y (0,-19) -> 77.337
+distancia entre (0,-19) y (59,31) -> 77.337
+distancia entre (-41,-19) y (9,31) -> 70.711
+distancia entre (9,-19) y (-41,31) -> 70.711
+distancia entre (59,-19) y (0,31) -> 77.337
+distancia entre (0,-69) y (59,81) -> 161.186
+distancia entre (-41,-69) y (9,81) -> 158.114
+distancia entre (9,-69) y (-41,81) -> 158.114
+distancia entre (59,-69) y (0,81) -> 161.186
+distancia entre (0,-119) y (59,131) -> 256.868
+distancia entre (-41,-119) y (9,131) -> 254.951
+distancia entre (9,-119) y (-41,131) -> 254.951
+distancia entre (59,-119) y (0,131) -> 256.868
+distancia entre (0,-169) y (59,0) -> 179.003
+distancia entre (-41,-169) y (9,0) -> 176.241
+distancia entre (9,-169) y (-41,0) -> 176.241
+distancia entre (59,-169) y (0,0) -> 179.003
+(0,0) y (0,0) -> son iguales
+(-41,0) y (-41,0) -> son iguales
+(9,0) y (9,0) -> son iguales
+(59,0) y (59,0) -> son iguales
+(0,131) y (0,131) -> son iguales
+(-41,131) y (-41,131) -> son iguales
+(9,131) y (9,131) -> son iguales
+(59,131) y (59,131) -> son iguales
+(0,81) y (0,81) -> son iguales
+(-41,81) y (-41,81) -> son iguales
+(9,81) y (9,81) -> son iguales
+(59,81) y (59,81) -> son iguales
+(0,31) y (0,31) -> son iguales
+(-41,31) y (-41,31) -> son iguales
+(9,31) y (9,31) -> son iguales
+(59,31) y (59,31) -> son iguales
+(0,-19) y (0,-19) -> son iguales
+(-41,-19) y (-41,-19) -> son iguales
+(9,-19) y (9,-19) -> son iguales
+(59,-19) y (59,-19) -> son iguales
+(0,-69) y (0,-69) -> son iguales
+(-41,-69) y (-41,-69) -> son iguales
+(9,-69) y (9,-69) -> son iguales
+(59,-69) y (59,-69) -> son iguales
+(0,-119) y (0,-119) -> son iguales
+(-41,-119) y (-41,-119) -> son iguales
+(9,-119) y (9,-119) -> son iguales
+(59,-119) y (59,-119) -> son iguales
+(0,-169) y (0,-169) -> son iguales
+(-41,-169) y (-41,-169) -> son iguales
+(9,-169) y (9,-169) -> son iguales
+(59,-169) y (59,-169) -> son iguales

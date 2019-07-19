@@ -1,0 +1,25 @@
+Se ha plantado la ciruelo? -> true
+Se ha plantado la tomatera? -> true
+Se ha plantado la carica? -> true
+Se ha plantado la fragaria? -> true
+Se ha plantado la naranjo? -> false
+Se ha plantado la mandarino? -> false
+Se ha plantado la platanero? -> false
+Se ha plantado la ciruelo? -> true
+Se ha plantado la tomatera? -> true
+Se ha plantado la carica? -> true
+plantas que han cambiado de estado al abonar ciruelo en la finca -> 2
+plantas que han cambiado de estado al abonar tomatera en la finca -> 2
+plantas que han cambiado de estado al abonar carica en la finca -> 2
+plantas que han cambiado de estado al abonar fragaria en la finca -> 1
+plantas que han cambiado de estado al abonar naranjo en la finca -> 0
+plantas que han cambiado de estado al abonar mandarino en la finca -> 0
+plantas que han cambiado de estado al abonar platanero en la finca -> 0
+plantas que han cambiado de estado al abonar ciruelo en la finca -> 2
+plantas que han cambiado de estado al abonar tomatera en la finca -> 2
+plantas que han cambiado de estado al abonar carica en la finca -> 2
+Estado de la finca
+hueco() fragaria(germinado) 
+carica(brote) carica(brote) 
+tomatera(brote) tomatera(brote) 
+ciruelo(brote) ciruelo(brote) 

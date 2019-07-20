@@ -29,20 +29,27 @@ public class Planta {
 		if (plantada != null) {
 			if (estado.equals("semilla")) {
 				estado = "germinado";
+				cambio_ = true;
 			} else if (estado.equals("germinado")) {
 				estado = "brote";
+				cambio_ = true;
 			} else if(estado.equals("brote")) {
 				estado = "adulta";
+				cambio_ = true;
 			} else {
 
 				for (int i=0; i<frutos.length; i++) {
 					if (frutos[i] == null  &&  !sembrada_) {
-						frutos.add(new Fruto(fruto));
+						frutos[i] = new Fruto(fruto);
 						sembrada_ = true;
+						cambio_ = true;
 					} else if(frutos[i] != null) {
-						frutos[i].transforma(p);
+						if (frutos[i].transforma(p)) {
+							cambio_ = true;
+						}
 						if (frutos[i].getPeso() > p) {
 							frutos[i] = null;
+							cambio_ = true;
 						}
 					}
 				}
@@ -51,45 +58,65 @@ public class Planta {
 		}
 	}
 
-/*
+
 	public ArrayList<Fruto> recolecta() {
+		ArrayList<Fruto> comestibles_ = new ArrayList<Fruto>();
 
-	}
+		for (int i=0; i<frutos.length; i++) {
+			if (frutos[i].getEstado().equals("comestible")) {
+				if (comestibles_.size() == 0) {
+					comestibles_.add(frutos[i]);
+				} else {
+					for (int j=0; j<comestibles_.size(); j++) {
+						if (comestibles_.get(j).getPeso() > frutos[i].getPeso()) {
+							comestibles_.add(j, frutos[i]);
+							break;
+						} else if (j == comestibles_.size()-1) {
+							comestibles_.add(frutos[i]);
+						}
+					}
+				}
+				frutos[i] = null;
+			}
+		}
 
-
-	public String getNombre() {
-
+		return comestibles_;
 	}
 
 
 	public void arranca() {
+		plantada = null;
+	}
 
+
+	public String getNombre() {
+		return nombre;
 	}
 
 
 	public String getEstado() {
-
+		return estado;
 	}
 
 
 	public Huerta getPlantada() {
-
+		return plantada;
 	}
 
 
-	public void setPlantada(Huerta) {
-
+	public void setPlantada(Huerta p) {
+		plantada = p;
 	}
 
 
 	public Fruto[] getFrutos() {
-
+		return frutos;
 	}
 
 
 	public String getFruto() {
-
+		return fruto;
 	}
 
-*/
+
 }

@@ -117,6 +117,22 @@ public class Planta {
 	public String getFruto() {
 		return fruto;
 	}
+	
+	
+	// metodo que devuelve true si el array tiene frutos y false en otro caso
+        public boolean tieneFrutos() {
+                boolean devuelve_ = false;
+                
+                for (int i=0; i<frutos.length; i++) {
+                        if (frutos[i] != null) {
+                                devuelve_ = true;
+                                break;
+                        }
+                }
+                
+                return devuelve_;
+        }
+
 
 
 }

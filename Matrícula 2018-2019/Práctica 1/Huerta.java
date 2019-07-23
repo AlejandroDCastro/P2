@@ -22,9 +22,33 @@ public class Huerta {
 
 
 	public boolean planta(Planta p) {
-		if (p != null  &&  p.getEstado().equals("semilla")) {
-			
+		boolean devuelve_ = false;
+		int pos_libre_x_ = -1, pos_libre_y_ = -1;
+		
+		if (p != null  &&  p.getPlantada() == null  &&  p.getEstado().equals("semilla")) {
+			for (int i=0; i<huerto.length; i++) {
+				pos_libre_x_ = i;
+				for (int j=0; j<huerto[i].length; j++) {
+					if (huerto[i][j] != null) {
+						if (huerto[i][j].getNombre().equals(p.getNombre())) {
+							i = huerto.length;
+						} else {
+							pos_libre_y_ = -1;
+							break;
+						}
+					} else {
+						pos_libre_y_ = j;
+					}
+				}
+			}
 		}
+		
+		if (pos_libre_y_ > -1) {
+			huerto[pos_libre_x_][pos_libre_y_] = p;
+			devuelve_ = true;
+		}
+		
+		return devuelve_;
 	}
 
 /*

@@ -52,12 +52,14 @@ public class Huerta {
 			
 		}
 		
-		if (pos_libre_y_ > -1) {
-			huerto[pos_libre_x_][pos_libre_y_] = p;
+		if (pos_libre_y_ > -1  ||  fila_libre_ > -1) {
+			if (pos_libre_y_ > -1) {
+				huerto[pos_libre_x_][pos_libre_y_] = p;
+			} else if (fila_libre_ > -1) {
+				huerto[fila_libre_][huerto[0].length-1];
+			}
+			p.setPlantada(this);
 			devuelve_ = true;
-		} else if (fila_libre_ > -1) {
-			huerto[fila_libre_][huerto[0].length-1];
-			devuelve = true;
 		}
 		
 		return devuelve_;
@@ -131,6 +133,7 @@ public class Huerta {
 		if (f > 0  &&  f < huerto.length  &&  c > 0  &&  c < huerto[0].length  &&  n != null) {
 			if (n.equalsIgnoreCase(huerto[f][c].getNombre())) {
 				arrancada_ = huerto[f][c];
+				arrancada_.arranca();
 				huerto[f][c] = null;
 			}
 		}

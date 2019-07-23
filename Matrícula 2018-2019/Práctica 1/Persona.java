@@ -49,22 +49,35 @@ public class Persona {
   
         public ArrayList<Planta> malasHierbas() {
                 ArrayList<Planta> plantas_malas_ = new ArrayList<Planta>();
-                ArrayList<String> plantas_adultas_ = null;
-                Fruto[] frutos_ = null;
+                Planta[][] huerto_ = null;
           
                 if (huerta != null) {
                         
-                        plantas_adultas_ = huerta.getAdultas();
-                        for (int i=0; i<huerta.getHuerto().length; i++) {
-                                for (int j=0; j<huerta.getHuerto()[i].length; j++) {
-                                        if ()
+                        huerto_ = huerta.getHuerto();
+                        for (int i=0; i<huerto_.length; i++) {
+                                for (int j=0; j<huerto_[i].length; j++) {
+                                        if (huerto_[i][j] != null) {
+                                                if (huerto_[i][j].getEstado().equals("adulta")  &&  !huerto_[i][j].tieneFrutos()) {
+                                                        plantas_malas_.add(huerto_[i][j].getNombre(), i, j);
+                                                }
+                                        }
+                                }
+                        }
                   
                 }
+          
+                return plantas_malas_;
         }
   
   
-        public int abona(int , String ) {
+        public int abona(int p , String n) {
+                int plantas_cambiadas_ = 0;
+          
+                if (huerta != null) {
+                        plantas_cambiadas_ = huerta.abona(p, n);
+                }
                 
+                return plantas_cambiadas_;
         }
   
   
@@ -75,21 +88,6 @@ public class Persona {
   
         public Huerta getHuerta() {
                 return huerta;
-        }
-                  
-                  
-        // metodo que devuelve true si el array tiene frutos y false en otro caso
-        public boolean tieneFrutos(Fruto[] f) {
-                boolean devuelve_ = false;
-                
-                for (int i=0; i<f.length; i++) {
-                        if (f[i] != null) {
-                                devuelve_ = true;
-                                break;
-                        }
-                }
-                
-                return devuelve_;
         }
   
 }

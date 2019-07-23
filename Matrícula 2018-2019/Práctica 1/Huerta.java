@@ -23,9 +23,10 @@ public class Huerta {
 
 	public boolean planta(Planta p) {
 		boolean devuelve_ = false;
-		int pos_libre_x_ = -1, pos_libre_y_ = -1;
+		int pos_libre_x_ = -1, pos_libre_y_ = -1, fila_libre_ = -1, cont_;
 		
 		if (p != null  &&  p.getPlantada() == null  &&  p.getEstado().equals("semilla")) {
+			
 			for (int i=0; i<huerto.length; i++) {
 				pos_libre_x_ = i;
 				for (int j=0; j<huerto[i].length; j++) {
@@ -38,14 +39,25 @@ public class Huerta {
 						}
 					} else {
 						pos_libre_y_ = j;
+						cont_ ++;
 					}
 				}
+				
+				// comprobamos si la fila esta libre o no
+				if (cont_ == huerto[i].length) {
+					fila_libre_ = i;
+				}
+				cont_ = 0;
 			}
+			
 		}
 		
 		if (pos_libre_y_ > -1) {
 			huerto[pos_libre_x_][pos_libre_y_] = p;
 			devuelve_ = true;
+		} else if (fila_libre_ > -1) {
+			huerto[fila_libre_][huerto[0].length-1];
+			devuelve = true;
 		}
 		
 		return devuelve_;

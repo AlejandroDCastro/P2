@@ -63,59 +63,137 @@ public class Huerta {
 		return devuelve_;
 	}
 
-/*
-	public ArrayList<Fruto> recolecta(String) {
 
+	public ArrayList<Fruto> recolecta(String n) {
+		ArrayList<Fruto> devuelve_ = new ArrayList<Fruto>();
+		
+		if (n != null) {
+			
+			for (int i=0; i<huerto.length; i++) {
+				for (int j=0; j<huerto[i].length; j++) {
+					if (huerto[i][j] != null) {
+						if (huerto[i][j].getFruto().equalsIgnoreCase(n)) {
+							devuelve_.add(huerto[i][j].recolecta());
+						} else {
+							break;
+						}
+					}
+				}
+				if(devuelve_.size() > 0) {
+					break;
+				}
+			}
+			
+		}
+		
+		return devuelve_;
 	}
 
 
-	public int abona(int,String) {
-
+	public int abona(int p, String n) {	// n es el nombre de la planta
+		int devuelve_ = 0;
+		
+		if (p > 0  &&  n != null) {
+			
+			for (int i=0; i<huerto.length; i++) {
+				for (int j=0; j<huerto[i].lenght; j++) {
+					if (huerto[i][j] != null) {
+						if (huerto[i][j].getNombre().equalsIgnoreCase(n)) {
+							devuelve_ += (huerto[i][j].abona(p)) ? 1 : 0;
+						} else {
+							break;
+						}
+					}
+				}
+				if (devuelve_ > 0) {
+					break;
+				}
+			}
+			
+		}
+		
+		return devuelve_;
 	}
 
 
-	public String consulta(int,int) {
-
+	public String consulta(int f, int c) {
+		if (f > 0  &&  f < huerto.length  &&  c > 0  &&  c < huerto[0].length) {
+			return huerto[f][c].getNombre();
+		} else {
+			return null;
+		}
 	}
 
 
-	public Planta arranca(String,int,int) {
-
+	public Planta arranca(String n, int f, int c) {		// n es el nombre de la planta
+		Planta arrancada_ = null;
+		
+		if (f > 0  &&  f < huerto.length  &&  c > 0  &&  c < huerto[0].length  &&  n != null) {
+			if (n.equalsIgnoreCase(huerto[f][c].getNombre())) {
+				arrancada_ = huerto[f][c];
+				huerto[f][c] = null;
+			}
+		}
+		
+		return arrancada_;
 	}
 
 
-	public void localiza(double,double) {
-
+	public void localiza(double lat, double lon) {
+		boolean esta_localizada_ = false;
+		
+		for (int i=0; i<localizadas.size(); i++) {
+			if (localizadas.get(i) == this) {
+				esta_localizada_ = true;
+				break;
+			}
+		}
+		
+		if (!esta_localizada_) {
+			localizacion = new Coordenada(lat, lon);
+			localizadas.add(this);
+		}
+	}
+	
+	
+	public ArrayList<String> getAdultas() {
+		ArrayList<String> adultas_ = new ArrayList<String>();
+		
+		for (int i=0; i<huerto.length; i++) {
+			for (int j=0; j<huerto[i].length; j++) {
+				if (huerto[i][j] != null  &&  huerto[i][j].getEstado("adulta")) {
+					adultas_.add(huerto[i][j].getNombre());
+					break;
+				}
+			}
+		}
+		
+		return adultas_;
 	}
 
 
 	public Coordenada getLocalizacion() {
-
+		return localizacion;
 	}
 
 
 	public Persona getCuidador() {
-
-	}
-
-
-	public ArrayList<String> getAdultas() {
-
+		return cuidador;
 	}
 
 
 	public static ArrayList<Huerta> getLocalizadas() {
-
+		return localizadas;
 	}
 
 
-	public void setCuidador(Persona) {
-
+	public void setCuidador(Persona c) {
+		cuidador = c;
 	}
 
 
 	public Planta[][] getHuerto() {
-
+		return huerto;
 	}
-*/
+	
 }

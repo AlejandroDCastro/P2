@@ -1,0 +1,532 @@
+Se ha plantado la ciruelo? -> true
+Se ha plantado la tomatera? -> true
+Se ha plantado la carica? -> true
+Se ha plantado la fragaria? -> true
+Se ha plantado la naranjo? -> true
+Se ha plantado la mandarino? -> true
+Se ha plantado la platanero? -> true
+Se ha plantado la manzano? -> true
+Se ha plantado la vid? -> false
+Se ha plantado la cerezo? -> false
+Se ha plantado la ciruelo? -> true
+Se ha plantado la tomatera? -> true
+Se ha plantado la carica? -> true
+Se ha plantado la fragaria? -> true
+Se ha plantado la naranjo? -> true
+Se ha plantado la mandarino? -> true
+Se ha plantado la platanero? -> true
+Se ha plantado la manzano? -> true
+Se ha plantado la vid? -> false
+Se ha plantado la cerezo? -> false
+Se ha plantado la cerezo? -> false
+Se ha plantado la vid? -> false
+Se ha plantado la manzano? -> true
+Se ha plantado la platanero? -> true
+Se ha plantado la mandarino? -> true
+-------- Estado de la finca despues de plantar ------------------------
+Estado de la finca
+[0,0]
+[0,1]
+Trifido: false
+Nombre: manzano
+Estado: semilla
+Nombre de sus frutos: manzana
+Num. max: 3
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+[0,2]
+Trifido: false
+Nombre: manzano
+Estado: semilla
+Nombre de sus frutos: manzana
+Num. max: 3
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+[0,3]
+Trifido: false
+Nombre: manzano
+Estado: semilla
+Nombre de sus frutos: manzana
+Num. max: 7
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+pos. 4 -> 
+pos. 5 -> 
+pos. 6 -> 
+[1,0]
+[1,1]
+Trifido: false
+Nombre: platanero
+Estado: semilla
+Nombre de sus frutos: platano
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,2]
+Trifido: false
+Nombre: platanero
+Estado: semilla
+Nombre de sus frutos: platano
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,3]
+Trifido: false
+Nombre: platanero
+Estado: semilla
+Nombre de sus frutos: platano
+Num. max: 6
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+pos. 4 -> 
+pos. 5 -> 
+[2,0]
+[2,1]
+Trifido: false
+Nombre: mandarino
+Estado: semilla
+Nombre de sus frutos: mandarina
+Num. max: 5
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+pos. 4 -> 
+[2,2]
+Trifido: false
+Nombre: mandarino
+Estado: semilla
+Nombre de sus frutos: mandarina
+Num. max: 5
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+pos. 4 -> 
+[2,3]
+Trifido: true
+Nombre: mandarino
+Estado: semilla
+Nombre de sus frutos: mandarina
+Num. max: 5
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+pos. 4 -> 
+[3,0]
+[3,1]
+[3,2]
+Trifido: false
+Nombre: naranjo
+Estado: semilla
+Nombre de sus frutos: naranja
+Num. max: 6
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+pos. 4 -> 
+pos. 5 -> 
+[3,3]
+Trifido: false
+Nombre: naranjo
+Estado: semilla
+Nombre de sus frutos: naranja
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[4,0]
+[4,1]
+[4,2]
+Trifido: false
+Nombre: fragaria
+Estado: semilla
+Nombre de sus frutos: fresa
+Num. max: 7
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+pos. 4 -> 
+pos. 5 -> 
+pos. 6 -> 
+[4,3]
+Trifido: false
+Nombre: fragaria
+Estado: semilla
+Nombre de sus frutos: fresa
+Num. max: 3
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+[5,0]
+[5,1]
+[5,2]
+Trifido: false
+Nombre: carica
+Estado: semilla
+Nombre de sus frutos: papaya
+Num. max: 8
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+pos. 4 -> 
+pos. 5 -> 
+pos. 6 -> 
+pos. 7 -> 
+[5,3]
+Trifido: false
+Nombre: carica
+Estado: semilla
+Nombre de sus frutos: papaya
+Num. max: 2
+pos. 0 -> 
+pos. 1 -> 
+[6,0]
+[6,1]
+[6,2]
+Trifido: false
+Nombre: tomatera
+Estado: semilla
+Nombre de sus frutos: tomate
+Num. max: 9
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+pos. 4 -> 
+pos. 5 -> 
+pos. 6 -> 
+pos. 7 -> 
+pos. 8 -> 
+[6,3]
+Trifido: false
+Nombre: tomatera
+Estado: semilla
+Nombre de sus frutos: tomate
+Num. max: 1
+pos. 0 -> 
+[7,0]
+[7,1]
+[7,2]
+Trifido: false
+Nombre: ciruelo
+Estado: semilla
+Nombre de sus frutos: ciruela
+Num. max: 10
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+pos. 4 -> 
+pos. 5 -> 
+pos. 6 -> 
+pos. 7 -> 
+pos. 8 -> 
+pos. 9 -> 
+[7,3]
+Trifido: true
+Nombre: ciruelo
+Estado: semilla
+Nombre de sus frutos: ciruela
+Num. max: 1
+pos. 0 -> 
+A ciruelo le entro hambre -> 3
+A mandarino le entro hambre -> 5
+-------- Estado de la finca despues del ataque ------------------------
+Estado de la finca
+[0,0]
+[0,1]
+Trifido: false
+Nombre: manzano
+Estado: semilla
+Nombre de sus frutos: manzana
+Num. max: 3
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+[0,2]
+Trifido: false
+Nombre: manzano
+Estado: semilla
+Nombre de sus frutos: manzana
+Num. max: 3
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+[0,3]
+Trifido: false
+Nombre: manzano
+Estado: semilla
+Nombre de sus frutos: manzana
+Num. max: 7
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+pos. 4 -> 
+pos. 5 -> 
+pos. 6 -> 
+[1,0]
+[1,1]
+Trifido: false
+Nombre: platanero
+Estado: semilla
+Nombre de sus frutos: platano
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,2]
+[1,3]
+[2,0]
+[2,1]
+Trifido: false
+Nombre: mandarino
+Estado: semilla
+Nombre de sus frutos: mandarina
+Num. max: 5
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+pos. 4 -> 
+[2,2]
+[2,3]
+Trifido: true
+Nombre: mandarino
+Estado: adulta
+Nombre de sus frutos: mandarina
+Num. max: 5
+pos. 0 -> nombre: mandarina; peso: 0.000; estado: inmaduro
+pos. 1 -> nombre: mandarina; peso: 0.000; estado: inmaduro
+pos. 2 -> nombre: mandarina; peso: 0.000; estado: inmaduro
+pos. 3 -> nombre: mandarina; peso: 0.000; estado: inmaduro
+pos. 4 -> 
+[3,0]
+[3,1]
+[3,2]
+[3,3]
+[4,0]
+[4,1]
+[4,2]
+Trifido: false
+Nombre: fragaria
+Estado: semilla
+Nombre de sus frutos: fresa
+Num. max: 7
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+pos. 4 -> 
+pos. 5 -> 
+pos. 6 -> 
+[4,3]
+Trifido: false
+Nombre: fragaria
+Estado: semilla
+Nombre de sus frutos: fresa
+Num. max: 3
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+[5,0]
+[5,1]
+[5,2]
+Trifido: false
+Nombre: carica
+Estado: semilla
+Nombre de sus frutos: papaya
+Num. max: 8
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+pos. 4 -> 
+pos. 5 -> 
+pos. 6 -> 
+pos. 7 -> 
+[5,3]
+Trifido: false
+Nombre: carica
+Estado: semilla
+Nombre de sus frutos: papaya
+Num. max: 2
+pos. 0 -> 
+pos. 1 -> 
+[6,0]
+[6,1]
+[6,2]
+[6,3]
+[7,0]
+[7,1]
+[7,2]
+[7,3]
+Trifido: true
+Nombre: ciruelo
+Estado: adulta
+Nombre de sus frutos: ciruela
+Num. max: 1
+pos. 0 -> nombre: ciruela; peso: 0.000; estado: inmaduro
+-------- Estado de las fincas despues de abonar ------------------------
+ORIGEN:
+Estado de la finca
+[0,0]
+[0,1]
+Trifido: false
+Nombre: manzano
+Estado: adulta
+Nombre de sus frutos: manzana
+Num. max: 3
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+[0,2]
+Trifido: false
+Nombre: manzano
+Estado: adulta
+Nombre de sus frutos: manzana
+Num. max: 3
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+[0,3]
+Trifido: false
+Nombre: manzano
+Estado: adulta
+Nombre de sus frutos: manzana
+Num. max: 7
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+pos. 4 -> 
+pos. 5 -> 
+pos. 6 -> 
+[1,0]
+[1,1]
+Trifido: false
+Nombre: platanero
+Estado: adulta
+Nombre de sus frutos: platano
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,2]
+[1,3]
+[2,0]
+[2,1]
+Trifido: false
+Nombre: mandarino
+Estado: adulta
+Nombre de sus frutos: mandarina
+Num. max: 5
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+pos. 4 -> 
+[2,2]
+[2,3]
+[3,0]
+[3,1]
+[3,2]
+[3,3]
+[4,0]
+[4,1]
+[4,2]
+Trifido: false
+Nombre: fragaria
+Estado: brote
+Nombre de sus frutos: fresa
+Num. max: 7
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+pos. 4 -> 
+pos. 5 -> 
+pos. 6 -> 
+[4,3]
+Trifido: false
+Nombre: fragaria
+Estado: brote
+Nombre de sus frutos: fresa
+Num. max: 3
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+[5,0]
+[5,1]
+[5,2]
+Trifido: false
+Nombre: carica
+Estado: brote
+Nombre de sus frutos: papaya
+Num. max: 8
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+pos. 4 -> 
+pos. 5 -> 
+pos. 6 -> 
+pos. 7 -> 
+[5,3]
+Trifido: false
+Nombre: carica
+Estado: brote
+Nombre de sus frutos: papaya
+Num. max: 2
+pos. 0 -> 
+pos. 1 -> 
+[6,0]
+[6,1]
+[6,2]
+[6,3]
+[7,0]
+[7,1]
+[7,2]
+[7,3]
+DESTINO:
+Estado de la finca
+[0,0]
+Trifido: true
+Nombre: ciruelo
+Estado: adulta
+Nombre de sus frutos: ciruela
+Num. max: 1
+pos. 0 -> 
+[0,1]
+Trifido: true
+Nombre: mandarino
+Estado: adulta
+Nombre de sus frutos: mandarina
+Num. max: 5
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+pos. 4 -> 
+[1,0]
+[1,1]
+[2,0]
+[2,1]

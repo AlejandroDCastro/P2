@@ -1,0 +1,542 @@
+Galadriel Moror se queda al cuidado de la huerta localizada en 1.0,12.5
+Galadriel Moror ha plantado ciruelo -> true; era trifido? -> false
+Galadriel Moror ha plantado tomatera -> true; era trifido? -> false
+Galadriel Moror ha plantado carica -> true; era trifido? -> false
+Galadriel Moror ha plantado fragaria -> true; era trifido? -> false
+Galadriel Moror ha plantado naranjo -> true; era trifido? -> false
+Galadriel Moror ha plantado mandarino -> true; era trifido? -> false
+Galadriel Moror ha plantado platanero -> false; era trifido? -> false
+Galadriel Moror ha plantado manzano -> false; era trifido? -> false
+Galadriel Moror ha plantado vid -> false; era trifido? -> false
+Galadriel Moror ha plantado cerezo -> false; era trifido? -> false
+Galadriel Moror ha plantado nogal -> false; era trifido? -> false
+Galadriel Moror ha plantado cocotero -> false; era trifido? -> false
+Galadriel Moror ha plantado albaricoquero -> false; era trifido? -> false
+Galadriel Moror ha plantado higuera -> false; era trifido? -> false
+Galadriel Moror ha plantado peral -> false; era trifido? -> false
+Galadriel Moror ha plantado ciruelo -> true; era trifido? -> true
+Galadriel Moror ha plantado tomatera -> true; era trifido? -> true
+Galadriel Moror ha plantado carica -> true; era trifido? -> true
+Galadriel Moror ha plantado fragaria -> true; era trifido? -> true
+Galadriel Moror ha plantado naranjo -> true; era trifido? -> true
+Galadriel Moror ha plantado mandarino -> true; era trifido? -> true
+Galadriel Moror ha plantado platanero -> false; era trifido? -> true
+Galadriel Moror ha plantado manzano -> false; era trifido? -> true
+Galadriel Moror ha plantado vid -> false; era trifido? -> true
+Galadriel Moror ha plantado cerezo -> false; era trifido? -> true
+Galadriel Moror ha plantado nogal -> false; era trifido? -> true
+Galadriel Moror ha plantado cocotero -> false; era trifido? -> true
+Galadriel Moror ha plantado albaricoquero -> false; era trifido? -> true
+Galadriel Moror ha plantado higuera -> false; era trifido? -> true
+Galadriel Moror ha plantado peral -> false; era trifido? -> true
+Galadriel Moror ha plantado peral -> false; era trifido? -> false
+Galadriel Moror ha plantado higuera -> false; era trifido? -> false
+Galadriel Moror ha plantado albaricoquero -> false; era trifido? -> false
+Galadriel Moror ha plantado cocotero -> false; era trifido? -> false
+Galadriel Moror ha plantado nogal -> false; era trifido? -> false
+Galadriel Moror ha plantado cerezo -> false; era trifido? -> false
+Galadriel Moror ha plantado vid -> false; era trifido? -> false
+Galadriel Moror ha plantado manzano -> false; era trifido? -> false
+Galadriel Moror ha plantado platanero -> false; era trifido? -> false
+Galadriel Moror ha plantado mandarino -> true; era trifido? -> false
+Galadriel Moror ha plantado naranjo -> true; era trifido? -> false
+Galadriel Moror ha plantado fragaria -> true; era trifido? -> false
+Galadriel Moror ha plantado carica -> true; era trifido? -> false
+Galadriel Moror ha plantado tomatera -> true; era trifido? -> false
+Galadriel Moror ha plantado ciruelo -> true; era trifido? -> false
+Galadriel Moror ha plantado ciruelo -> true; era trifido? -> true
+Galadriel Moror ha plantado tomatera -> true; era trifido? -> true
+Galadriel Moror ha plantado carica -> true; era trifido? -> true
+Galadriel Moror ha plantado fragaria -> true; era trifido? -> true
+Galadriel Moror ha plantado naranjo -> true; era trifido? -> true
+Galadriel Moror ha plantado mandarino -> true; era trifido? -> true
+Galadriel Moror ha plantado platanero -> false; era trifido? -> true
+Galadriel Moror ha plantado manzano -> false; era trifido? -> true
+Galadriel Moror ha plantado vid -> false; era trifido? -> true
+Galadriel Moror ha plantado cerezo -> false; era trifido? -> true
+Galadriel Moror ha plantado nogal -> false; era trifido? -> true
+Galadriel Moror ha plantado cocotero -> false; era trifido? -> true
+Galadriel Moror ha plantado albaricoquero -> false; era trifido? -> true
+Galadriel Moror ha plantado higuera -> false; era trifido? -> true
+Galadriel Moror ha plantado peral -> false; era trifido? -> true
+Han cambiado 4 despues del abono de ciruela
+Han cambiado 4 despues del abono de tomate
+Han cambiado 4 despues del abono de papaya
+Han cambiado 4 despues del abono de fresa
+Han cambiado 4 despues del abono de naranja
+Han cambiado 4 despues del abono de mandarina
+Han cambiado 0 despues del abono de platano
+Han cambiado 0 despues del abono de manzana
+Han cambiado 0 despues del abono de uva
+Han cambiado 0 despues del abono de cereza
+Han cambiado 0 despues del abono de nuez
+Han cambiado 0 despues del abono de coco
+Han cambiado 0 despues del abono de albaricoque
+Han cambiado 0 despues del abono de higo
+Han cambiado 0 despues del abono de pera
+Han cambiado 4 despues del abono de ciruela
+Han cambiado 4 despues del abono de tomate
+Han cambiado 4 despues del abono de papaya
+Han cambiado 4 despues del abono de fresa
+Han cambiado 4 despues del abono de naranja
+Han cambiado 4 despues del abono de mandarina
+Han cambiado 0 despues del abono de platano
+Han cambiado 0 despues del abono de manzana
+Han cambiado 0 despues del abono de uva
+Han cambiado 0 despues del abono de cereza
+Han cambiado 0 despues del abono de nuez
+Han cambiado 0 despues del abono de coco
+Han cambiado 0 despues del abono de albaricoque
+Han cambiado 0 despues del abono de higo
+Han cambiado 0 despues del abono de pera
+Han cambiado 4 despues del abono de ciruela
+Han cambiado 4 despues del abono de tomate
+Han cambiado 4 despues del abono de papaya
+Han cambiado 4 despues del abono de fresa
+Han cambiado 4 despues del abono de naranja
+Han cambiado 4 despues del abono de mandarina
+Han cambiado 0 despues del abono de platano
+Han cambiado 0 despues del abono de manzana
+Han cambiado 0 despues del abono de uva
+Han cambiado 0 despues del abono de cereza
+Han cambiado 0 despues del abono de nuez
+Han cambiado 0 despues del abono de coco
+Han cambiado 0 despues del abono de albaricoque
+Han cambiado 0 despues del abono de higo
+Han cambiado 0 despues del abono de pera
+---------- Estado huerta despues de abona (1) -------------
+Estado de la finca
+[0,0]
+Trifido: false
+Nombre: mandarino
+Estado: adulta
+Nombre de sus frutos: mandarina
+Num. max: 2
+pos. 0 -> 
+pos. 1 -> 
+[0,1]
+Trifido: false
+Nombre: mandarino
+Estado: adulta
+Nombre de sus frutos: mandarina
+Num. max: 3
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+[0,2]
+Trifido: false
+Nombre: mandarino
+Estado: adulta
+Nombre de sus frutos: mandarina
+Num. max: 3
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+[0,3]
+Trifido: false
+Nombre: mandarino
+Estado: adulta
+Nombre de sus frutos: mandarina
+Num. max: 3
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+[1,0]
+Trifido: false
+Nombre: naranjo
+Estado: adulta
+Nombre de sus frutos: naranja
+Num. max: 2
+pos. 0 -> 
+pos. 1 -> 
+[1,1]
+Trifido: false
+Nombre: naranjo
+Estado: adulta
+Nombre de sus frutos: naranja
+Num. max: 3
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+[1,2]
+Trifido: false
+Nombre: naranjo
+Estado: adulta
+Nombre de sus frutos: naranja
+Num. max: 3
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+[1,3]
+Trifido: false
+Nombre: naranjo
+Estado: adulta
+Nombre de sus frutos: naranja
+Num. max: 3
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+[2,0]
+Trifido: false
+Nombre: fragaria
+Estado: adulta
+Nombre de sus frutos: fresa
+Num. max: 2
+pos. 0 -> 
+pos. 1 -> 
+[2,1]
+Trifido: false
+Nombre: fragaria
+Estado: adulta
+Nombre de sus frutos: fresa
+Num. max: 3
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+[2,2]
+Trifido: false
+Nombre: fragaria
+Estado: adulta
+Nombre de sus frutos: fresa
+Num. max: 3
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+[2,3]
+Trifido: false
+Nombre: fragaria
+Estado: adulta
+Nombre de sus frutos: fresa
+Num. max: 3
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+[3,0]
+Trifido: false
+Nombre: carica
+Estado: adulta
+Nombre de sus frutos: papaya
+Num. max: 2
+pos. 0 -> 
+pos. 1 -> 
+[3,1]
+Trifido: false
+Nombre: carica
+Estado: adulta
+Nombre de sus frutos: papaya
+Num. max: 3
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+[3,2]
+Trifido: false
+Nombre: carica
+Estado: adulta
+Nombre de sus frutos: papaya
+Num. max: 3
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+[3,3]
+Trifido: false
+Nombre: carica
+Estado: adulta
+Nombre de sus frutos: papaya
+Num. max: 3
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+[4,0]
+Trifido: false
+Nombre: tomatera
+Estado: adulta
+Nombre de sus frutos: tomate
+Num. max: 2
+pos. 0 -> 
+pos. 1 -> 
+[4,1]
+Trifido: false
+Nombre: tomatera
+Estado: adulta
+Nombre de sus frutos: tomate
+Num. max: 3
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+[4,2]
+Trifido: false
+Nombre: tomatera
+Estado: adulta
+Nombre de sus frutos: tomate
+Num. max: 3
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+[4,3]
+Trifido: false
+Nombre: tomatera
+Estado: adulta
+Nombre de sus frutos: tomate
+Num. max: 3
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+[5,0]
+Trifido: false
+Nombre: ciruelo
+Estado: adulta
+Nombre de sus frutos: ciruela
+Num. max: 2
+pos. 0 -> 
+pos. 1 -> 
+[5,1]
+Trifido: false
+Nombre: ciruelo
+Estado: adulta
+Nombre de sus frutos: ciruela
+Num. max: 3
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+[5,2]
+Trifido: false
+Nombre: ciruelo
+Estado: adulta
+Nombre de sus frutos: ciruela
+Num. max: 3
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+[5,3]
+Trifido: false
+Nombre: ciruelo
+Estado: adulta
+Nombre de sus frutos: ciruela
+Num. max: 3
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+Han cambiado 4 despues del abono de ciruela
+Han cambiado 4 despues del abono de papaya
+Han cambiado 4 despues del abono de naranja
+Han cambiado 4 despues del abono de ciruela
+Han cambiado 4 despues del abono de papaya
+Han cambiado 4 despues del abono de naranja
+Han cambiado 4 despues del abono de mandarina
+Han cambiado 4 despues del abono de fresa
+Han cambiado 4 despues del abono de tomate
+Han cambiado 4 despues del abono de ciruela
+Han cambiado 4 despues del abono de papaya
+Han cambiado 4 despues del abono de naranja
+---------- Estado huerta despues de abona (2) -------------
+Estado de la finca
+[0,0]
+Trifido: false
+Nombre: mandarino
+Estado: adulta
+Nombre de sus frutos: mandarina
+Num. max: 2
+pos. 0 -> nombre: mandarina; peso: 0.000; estado: inmaduro
+pos. 1 -> 
+[0,1]
+Trifido: false
+Nombre: mandarino
+Estado: adulta
+Nombre de sus frutos: mandarina
+Num. max: 3
+pos. 0 -> nombre: mandarina; peso: 0.000; estado: inmaduro
+pos. 1 -> 
+pos. 2 -> 
+[0,2]
+Trifido: false
+Nombre: mandarino
+Estado: adulta
+Nombre de sus frutos: mandarina
+Num. max: 3
+pos. 0 -> nombre: mandarina; peso: 0.000; estado: inmaduro
+pos. 1 -> 
+pos. 2 -> 
+[0,3]
+Trifido: false
+Nombre: mandarino
+Estado: adulta
+Nombre de sus frutos: mandarina
+Num. max: 3
+pos. 0 -> nombre: mandarina; peso: 0.000; estado: inmaduro
+pos. 1 -> 
+pos. 2 -> 
+[1,0]
+Trifido: false
+Nombre: naranjo
+Estado: adulta
+Nombre de sus frutos: naranja
+Num. max: 2
+pos. 0 -> nombre: naranja; peso: 0.800; estado: comestible
+pos. 1 -> nombre: naranja; peso: 0.400; estado: comestible
+[1,1]
+Trifido: false
+Nombre: naranjo
+Estado: adulta
+Nombre de sus frutos: naranja
+Num. max: 3
+pos. 0 -> nombre: naranja; peso: 0.800; estado: comestible
+pos. 1 -> nombre: naranja; peso: 0.400; estado: comestible
+pos. 2 -> nombre: naranja; peso: 0.000; estado: inmaduro
+[1,2]
+Trifido: false
+Nombre: naranjo
+Estado: adulta
+Nombre de sus frutos: naranja
+Num. max: 3
+pos. 0 -> nombre: naranja; peso: 0.800; estado: comestible
+pos. 1 -> nombre: naranja; peso: 0.400; estado: comestible
+pos. 2 -> nombre: naranja; peso: 0.000; estado: inmaduro
+[1,3]
+Trifido: false
+Nombre: naranjo
+Estado: adulta
+Nombre de sus frutos: naranja
+Num. max: 3
+pos. 0 -> nombre: naranja; peso: 0.800; estado: comestible
+pos. 1 -> nombre: naranja; peso: 0.400; estado: comestible
+pos. 2 -> nombre: naranja; peso: 0.000; estado: inmaduro
+[2,0]
+Trifido: false
+Nombre: fragaria
+Estado: adulta
+Nombre de sus frutos: fresa
+Num. max: 2
+pos. 0 -> nombre: fresa; peso: 0.000; estado: inmaduro
+pos. 1 -> 
+[2,1]
+Trifido: false
+Nombre: fragaria
+Estado: adulta
+Nombre de sus frutos: fresa
+Num. max: 3
+pos. 0 -> nombre: fresa; peso: 0.000; estado: inmaduro
+pos. 1 -> 
+pos. 2 -> 
+[2,2]
+Trifido: false
+Nombre: fragaria
+Estado: adulta
+Nombre de sus frutos: fresa
+Num. max: 3
+pos. 0 -> nombre: fresa; peso: 0.000; estado: inmaduro
+pos. 1 -> 
+pos. 2 -> 
+[2,3]
+Trifido: false
+Nombre: fragaria
+Estado: adulta
+Nombre de sus frutos: fresa
+Num. max: 3
+pos. 0 -> nombre: fresa; peso: 0.000; estado: inmaduro
+pos. 1 -> 
+pos. 2 -> 
+[3,0]
+Trifido: false
+Nombre: carica
+Estado: adulta
+Nombre de sus frutos: papaya
+Num. max: 2
+pos. 0 -> nombre: papaya; peso: 0.800; estado: comestible
+pos. 1 -> nombre: papaya; peso: 0.400; estado: comestible
+[3,1]
+Trifido: false
+Nombre: carica
+Estado: adulta
+Nombre de sus frutos: papaya
+Num. max: 3
+pos. 0 -> nombre: papaya; peso: 0.800; estado: comestible
+pos. 1 -> nombre: papaya; peso: 0.400; estado: comestible
+pos. 2 -> nombre: papaya; peso: 0.000; estado: inmaduro
+[3,2]
+Trifido: false
+Nombre: carica
+Estado: adulta
+Nombre de sus frutos: papaya
+Num. max: 3
+pos. 0 -> nombre: papaya; peso: 0.800; estado: comestible
+pos. 1 -> nombre: papaya; peso: 0.400; estado: comestible
+pos. 2 -> nombre: papaya; peso: 0.000; estado: inmaduro
+[3,3]
+Trifido: false
+Nombre: carica
+Estado: adulta
+Nombre de sus frutos: papaya
+Num. max: 3
+pos. 0 -> nombre: papaya; peso: 0.800; estado: comestible
+pos. 1 -> nombre: papaya; peso: 0.400; estado: comestible
+pos. 2 -> nombre: papaya; peso: 0.000; estado: inmaduro
+[4,0]
+Trifido: false
+Nombre: tomatera
+Estado: adulta
+Nombre de sus frutos: tomate
+Num. max: 2
+pos. 0 -> nombre: tomate; peso: 0.000; estado: inmaduro
+pos. 1 -> 
+[4,1]
+Trifido: false
+Nombre: tomatera
+Estado: adulta
+Nombre de sus frutos: tomate
+Num. max: 3
+pos. 0 -> nombre: tomate; peso: 0.000; estado: inmaduro
+pos. 1 -> 
+pos. 2 -> 
+[4,2]
+Trifido: false
+Nombre: tomatera
+Estado: adulta
+Nombre de sus frutos: tomate
+Num. max: 3
+pos. 0 -> nombre: tomate; peso: 0.000; estado: inmaduro
+pos. 1 -> 
+pos. 2 -> 
+[4,3]
+Trifido: false
+Nombre: tomatera
+Estado: adulta
+Nombre de sus frutos: tomate
+Num. max: 3
+pos. 0 -> nombre: tomate; peso: 0.000; estado: inmaduro
+pos. 1 -> 
+pos. 2 -> 
+[5,0]
+Trifido: false
+Nombre: ciruelo
+Estado: adulta
+Nombre de sus frutos: ciruela
+Num. max: 2
+pos. 0 -> nombre: ciruela; peso: 0.800; estado: comestible
+pos. 1 -> nombre: ciruela; peso: 0.400; estado: comestible
+[5,1]
+Trifido: false
+Nombre: ciruelo
+Estado: adulta
+Nombre de sus frutos: ciruela
+Num. max: 3
+pos. 0 -> nombre: ciruela; peso: 0.800; estado: comestible
+pos. 1 -> nombre: ciruela; peso: 0.400; estado: comestible
+pos. 2 -> nombre: ciruela; peso: 0.000; estado: inmaduro
+[5,2]
+Trifido: false
+Nombre: ciruelo
+Estado: adulta
+Nombre de sus frutos: ciruela
+Num. max: 3
+pos. 0 -> nombre: ciruela; peso: 0.800; estado: comestible
+pos. 1 -> nombre: ciruela; peso: 0.400; estado: comestible
+pos. 2 -> nombre: ciruela; peso: 0.000; estado: inmaduro
+[5,3]
+Trifido: false
+Nombre: ciruelo
+Estado: adulta
+Nombre de sus frutos: ciruela
+Num. max: 3
+pos. 0 -> nombre: ciruela; peso: 0.800; estado: comestible
+pos. 1 -> nombre: ciruela; peso: 0.400; estado: comestible
+pos. 2 -> nombre: ciruela; peso: 0.000; estado: inmaduro

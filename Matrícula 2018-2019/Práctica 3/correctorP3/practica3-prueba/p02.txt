@@ -1,0 +1,15 @@
+Tablero vacio: inicio -> -1; fin -> -1
+Coloca [0,1]? -> true
+Tablero: inicio -> 0; fin -> 1
+Coloca [1,2]? -> true
+Tablero: inicio -> 0; fin -> 2
+Coloca [2,3]? -> true
+Tablero: inicio -> 0; fin -> 3
+Coloca [3,4]? -> true
+Tablero: inicio -> 0; fin -> 4
+Coloca [4,5]? -> true
+Tablero: inicio -> 0; fin -> 5
+Coloca [5,6]? -> true
+Tablero: inicio -> 0; fin -> 6
+JugadaIncorrectaException: [2,2]!=[5,6]
+{[0,1],[1,2],[2,3],[3,4],[4,5],[5,6]}

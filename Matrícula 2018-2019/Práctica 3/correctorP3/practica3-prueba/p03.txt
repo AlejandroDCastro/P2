@@ -1,0 +1,8 @@
+Mete [0,1]? -> true
+Mete [1,2]? -> true
+Mete [2,3]? -> true
+Mete [3,4]? -> true
+Mete [4,5]? -> true
+Mete [5,6]? -> true
+FichaRepetidaException: [1,0]
+{[0,1],[1,2],[2,3],[3,4],[4,5],[5,6]}

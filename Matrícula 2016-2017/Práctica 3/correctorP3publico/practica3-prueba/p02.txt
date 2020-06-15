@@ -1,5 +1,0 @@
-Energia del RauD (hembra) -> [3,3,4,6,9,13,18,24,31]
-No come -1 en la posicion 0
-No come -1 en la posicion 1
-No come 0 en la posicion 2
-Energia del RauC (macho) -> [0,0,0,2,5]
